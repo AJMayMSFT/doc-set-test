@@ -261,7 +261,7 @@ ms.assetid:
                                     </div>
                                 
                             </a></li>
-                            <li>
+d                            <li>
                                 <a href="/en-us/microsoft-graph/api-reference/v1.0/resources/webhooks">
                                     <div class="cardSize">
                                         <div class="cardPadding">
@@ -271,7 +271,7 @@ ms.assetid:
                                                         <img src="https://docs.microsoft.com/en-us/azure/media/index/azurefunctions.svg" alt="Webhook" style="height:48px">
                                                     </div>
                                                 </div>
-                                                <div class="cardText">
+s                                                <div class="cardText">
                                                     <h3><a href="/en-us/microsoft-graph/api-reference/v1.0/resources/webhooks"><a>Do more with the Microsoft Graph</a></a></h3>
                                                     <p><a href="/en-us/microsoft-graph/api-reference/v1.0/resources/webhooks">Get notifications of state changes to a user&#39;s data</a></p>
                                                     <p><a href="/en-us/microsoft-graph/api-reference/v1.0/resources/opentypeextension">Use Data Extensions to add your own custom metadata to supported resources like messages, events, or contacts</a></p>
@@ -281,7 +281,7 @@ ms.assetid:
                                     </div>
                                 
                             </a></li>
-                        </ul>
+d                        </ul>
                     </li>
                     <li>
                         <a href="#cloud">Microsoft Graph Beta APIs</a>
@@ -291,7 +291,7 @@ ms.assetid:
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
-                                                <div class="cardImageOuter">
+s                                                <div class="cardImageOuter">
                                                     <div class="cardImage">
                                                         <img src="https://docs.microsoft.com/en-us/azure/media/index/activedirectory.svg" alt="Active Directory" style="height:48px">
                                                     </div>
@@ -301,7 +301,7 @@ ms.assetid:
                                                     <p><a href="/en-us/microsoft-graph/api-reference/beta/resources/users">Gain access to user information</a></p>
                                                     <p><a href="/en-us/microsoft-graph/api-reference/beta/resources/directoryobject">Access an organizations directory</a></p>
                                                 </div>
-                                            </div>
+>                                            </div>
                                         </div>
                                     </div>
                                 
@@ -311,7 +311,7 @@ ms.assetid:
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
-                                                <div class="cardImageOuter">
+v                                                <div class="cardImageOuter">
                                                     <div class="cardImage">
                                                         <img src="https://static2.sharepointonline.com/files/fabric/assets/brand-icons/product/svg/excel_16x1.svg" alt="Excel" style="height:48px">
                                                     </div>
@@ -321,7 +321,7 @@ ms.assetid:
                                                     <p><a href="/en-us/microsoft-graph/api-reference/beta/resources/excel">Connect to User&#39;s workbooks and use Excel as a service</a></p>
                                                 </div>
                                             </div>
-                                        </div>
+i                                        </div>
                                     </div>
                                 
                             </a></li>
@@ -331,7 +331,7 @@ ms.assetid:
                                         <div class="cardPadding">
                                             <div class="card">
                                                 <div class="cardImageOuter">
-                                                    <div class="cardImage">
+d                                                    <div class="cardImage">
                                                         <img src="https://static2.sharepointonline.com/files/fabric/assets/brand-icons/product/svg/onedrive_16x1.svg" alt="OneDrive" style="height:48px">
                                                     </div>
                                                 </div>
@@ -341,7 +341,7 @@ ms.assetid:
                                                 </div>
                                             </div>
                                         </div>
-                                    </div>
+/                                    </div>
                                 
                             </a></li>
                             <li>
@@ -361,7 +361,7 @@ ms.assetid:
                                                 </div>
                                             </div>
                                         </div>
-                                    </div>
+<                                    </div>
                                 
                             </a></li>
                             <li>
