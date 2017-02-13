@@ -21,7 +21,45 @@ ms.assetid:
         <li>
             <a href="#services">Documentation</a>
             <ul id="services">
-              <li>hi</li>
+              <li>
+                  <a href="#all">All</a>
+                  <ul id="all" class="directory">
+                      <li>
+                          <div class="group">
+                              <h3>Overview</h3>
+                              <ul>
+                                  <li>
+                                      <a href="https://graph.microsoft.io/en-us/docs/overview/overview">
+                                          <img src="media/index/virtualmachine.svg" alt="">
+                                          <p>MicroSoft Graph Overview</p>
+                                      </a>
+                                  </li>
+                                  <li>
+                                      <a href="https://graph.microsoft.io/en-us/graph-explorer">
+                                          <img src="media/index/virtualmachine.svg" alt="">
+                                          <p>Graph explorer</p>
+                                      </a>
+                                  </li>
+                                </ul>
+                                <h3>Basics</h3>
+                                <ul>
+                                  <li>
+                                      <a href="https://graph.microsoft.io/en-us/docs/overview/overview">
+                                          <img src="media/index/virtualmachine.svg" alt="">
+                                          <p>Authentication</p>
+                                      </a>
+                                  </li>
+                                  <li>
+                                      <a href="https://graph.microsoft.io/en-us/docs/overview/overview">
+                                          <img src="media/index/virtualmachine.svg" alt="">
+                                          <p>Paging</p>
+                                      </a>
+                                  </li>
+                                </ul>
+                              </div>
+                            </li>
+
+              
             </ul>
         </li>
         <li>
@@ -38,3 +76,4 @@ ms.assetid:
         </li>
     </ul>
 </div>
+
