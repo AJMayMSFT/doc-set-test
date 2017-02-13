@@ -21,9 +21,9 @@ ms.assetid:
         <li>
             <a href="#services">Documentation</a>
             <ul id="services">
-              <li>
+              <!-- <li>
                   <a href="#all">All</a>
-                  <!-- <ul id="all" class="directory">
+                  <ul id="all" class="directory">
                       <li>
                           <div class="group">
                               <h3>Overview</h3>
@@ -60,8 +60,8 @@ ms.assetid:
                             </li>
 
 
-                          </ul> -->
-                        </li>
+                          </ul>
+                        </li> -->
                         <li>
                           <a data-default="true" href="#overview">Overview</a>
                           <ul id="overview" class="cardsA">
