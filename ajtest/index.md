@@ -33,7 +33,8 @@ ms.assetid:
                                 </div>
                             </div>
                         </div>
-                    </div>
+
+</div>
                 </a>
             </li>
             <li>
@@ -73,7 +74,32 @@ ms.assetid:
                 </a>
             </li>
         </ul>
-    </div>
+    </div> 
+    
+    <div class="container">
+    <ul class="pivots">
+        <li>
+            <a href="#services">Documentation</a>
+            <ul id="services">
+              <li>hi</li>
+            </ul>
+        </li>
+        <li>
+            <a href="#sdks">SDKs and Tools</a>
+            <ul id="sds">
+              <li>rails sdk</li>
+            </ul>
+        </li>
+        <li>
+            <a href="#samples">Code samples</a>
+            <ul id="samples">
+              <li>connects</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+    
+    
     <div class="container">
         <h1>Microsoft Graph Documentation</h1>
         <ul class="pivots">
