@@ -15,7 +15,10 @@ ms.technology:
 ms.suite:
 ms.assetid:
 ---
-<div id="main" class="v2">
+
+    <main ms.pgarea="body">
+      <div class="container">
+      <div><div class="content"><div id="main" class="v2">
     <div class="container">
         <ul class="cardsY panelContent featuredContent">
             <li>
@@ -24,31 +27,30 @@ ms.assetid:
                         <div class="cardPadding">
                             <div class="card">
                                 <div class="cardImageOuter">
-                                    <div class="cardImage">
-                                        <img data-hoverimage="articles/images/hub/featured-1.svg" src="./docs/images/hub/featured-1.png" alt="" />
-                                    </div>
-                                </div>
+                                                <div class="cardImage">
+                                                    <img src="https://docs.microsoft.com/en-us/azure/media/index/getstarted-developer.png" alt="Microsoft Graph icon">
+                                                </div>
+                                            </div>
                                 <div class="cardText">
-                                    <h3>Get Started with C#</h3>
+                                    <h3>What is the Microsoft Graph?</h3>
                                 </div>
                             </div>
                         </div>
-
-</div>
+                    </div>
                 </a>
             </li>
             <li>
-                <a href="/dotnet/core/api/">
+                <a href="/en-us/dotnet/core/api/">
                     <div class="cardSize">
                         <div class="cardPadding">
                             <div class="card">
                                 <div class="cardImageOuter">
-                                    <div class="cardImage">
-                                        <img data-hoverimage="articles/images/hub/featured-2.svg" src="./docs/images/hub/featured-2.png" alt="" />
-                                    </div>
-                                </div>
+                                                <div class="cardImage">
+                                                    <img src="https://docs.microsoft.com/en-us/azure/media/index/getstarted-developer.png" alt="Microsoft Graph icon">
+                                                </div>
+                                            </div>
                                 <div class="cardText">
-                                    <h3>.NET Core API Reference</h3>
+                                    <h3>See how partners are building for the Graph</h3>
                                 </div>
                             </div>
                         </div>
@@ -60,13 +62,13 @@ ms.assetid:
                     <div class="cardSize">
                         <div class="cardPadding">
                             <div class="card">
-                                <div class="cardImageOuter">
-                                    <div class="cardImage">
-                                        <img data-hoverimage="articles/images/hub/featured-3.svg" src="./docs/images/hub/featured-3.png" alt="" />
-                                    </div>
-                                </div>
+                            <div class="cardImageOuter">
+                                                <div class="cardImage">
+                                                    <img src="https://docs.microsoft.com/en-us/azure/media/index/getstarted-developer.png" alt="Microsoft Graph icon">
+                                                </div>
+                                            </div>
                                 <div class="cardText">
-                                    <h3>.NET Framework API Reference</h3>
+                                    <h3>Try the Graph quickstart</h3>
                                 </div>
                             </div>
                         </div>
@@ -74,32 +76,7 @@ ms.assetid:
                 </a>
             </li>
         </ul>
-    </div> 
-    
-    <div class="container">
-    <ul class="pivots">
-        <li>
-            <a href="#services">Documentation</a>
-            <ul id="services">
-              <li>hi</li>
-            </ul>
-        </li>
-        <li>
-            <a href="#sdks">SDKs and Tools</a>
-            <ul id="sds">
-              <li>rails sdk</li>
-            </ul>
-        </li>
-        <li>
-            <a href="#samples">Code samples</a>
-            <ul id="samples">
-              <li>connects</li>
-            </ul>
-        </li>
-    </ul>
-</div>
-    
-    
+    </div>
     <div class="container">
         <h1>Microsoft Graph Documentation</h1>
         <ul class="pivots">
@@ -115,12 +92,12 @@ ms.assetid:
                                         <div class="card">
                                             <div class="cardImageOuter">
                                                 <div class="cardImage">
-                                                    <img src="./docs/images/hub/net-gs-1.svg" alt="" />
+                                                    <img src="https://docs.microsoft.com/en-us/azure/media/index/getstarted-developer.png" alt="Microsoft Graph icon">
                                                 </div>
                                             </div>
                                             <div class="cardText">
-                                                <h3><a href="/overview/overview">What is Microsoft Graph?</a></h3>
-                                                <p><a href="/get-started/get-started">Get Started</a></p>
+                                                <h3><a href="/en-us/microsoft-graph/overview/overview">What is Microsoft Graph?</a></h3>
+                                                <p><a href="/en-us/microsoft-graph/get-started/get-started">Get Started</a></p>
                                                 <p><a href="https://graph.microsoft.io/graph-explorer">Microsoft Graph Explorer</a></p>
                                             </div>
                                         </div>
@@ -133,14 +110,14 @@ ms.assetid:
                                         <div class="card">
                                             <div class="cardImageOuter">
                                                 <div class="cardImage">
-                                                    <img src="./docs/images/hub/net-gs-2.svg" alt="" />
+                                                    <img src="https://docs.microsoft.com/en-us/azure/media/index/getstarted-developer.png" alt="Microsoft Graph icon">
                                                 </div>
                                             </div>
                                             <div class="cardText">
-                                                <h3><a href="authorization/auth_overview">Authorization</a></h3>
-                                                <p><a href="/authorization/converged_auth">Azure AD v2.0 endpoint</a></p>
-                                                <p><a href="/authorization/converged_auth">Azure AD v1.0 endpoint</a></p>
-                                                <p><a href="/authorization/converged_auth">Authorization "Connect" Samples</a></p>
+                                                <h3><a href="/en-us/microsoft-graph/authorization/auth_overview">Authorization</a></h3>
+                                                <p><a href="/en-us/microsoft-graph/authorization/converged_auth">Azure AD v2.0 endpoint</a></p>
+                                                <p><a href="/en-us/microsoft-graph/authorization/converged_auth">Azure AD v1.0 endpoint</a></p>
+                                                <p><a href="https://github.com/search?q=org%3Amicrosoftgraph+connect+sample">Authorization &quot;Connect&quot; Samples</a></p>
                                             </div>
                                         </div>
                                     </div>
@@ -152,15 +129,34 @@ ms.assetid:
                                         <div class="card">
                                             <div class="cardImageOuter">
                                                 <div class="cardImage">
-                                                    <img src="./docs/images/hub/net-gs-3.svg" alt="" />
+                                                    <img src="https://docs.microsoft.com/en-us/azure/media/index/getstarted-developer.png" alt="Microsoft Graph icon">
                                                 </div>
                                             </div>
                                             <div class="cardText">
-                                                <h3><a href="https://msdn.microsoft.com/library/w0x726c2(v=vs.110).aspx">Basic Concepts</a></h3>
-                                                <p><a href="https://msdn.microsoft.com/library/hh425099(v=vs.110).aspx">Get Started</a></p>
-                                                <p><a href="https://msdn.microsoft.com/library/hh156542(v=vs.110).aspx">Tutorials</a></p>
-                                                <p><a href="https://msdn.microsoft.com/library/54xbah2z(v=vs.110).aspx">Client Development</a></p>
-                                                <p><a href="https://msdn.microsoft.com/library/bb400852(v=vs.110).aspx">ASP.NET</a></p>
+                                                <h3><a href="/en-us/microsoft-graph/concepts">Basic Concepts</a></h3>
+                                                <p><a href="/en-us/microsoft-graph/overview/paging">Paging</a></p>
+                                                <p><a href="/en-us/microsoft-graph/overview/query_parameters">Query Parameters</a></p>
+                                                <p><a href="/en-us/microsoft-graph/overview/errors">Error responses and resource types</a></p>
+                                                <p><a href="/en-us/microsoft-graph/changelog">Changelog (What&#39;s new?)</a></p>
+                                                <p><a href="/en-us/microsoft-graph/overview/release_notes">Known Issues</a></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="cardSize">
+                                    <div class="cardPadding">
+                                        <div class="card">
+                                       <div class="cardImageOuter">
+                                                <div class="cardImage">
+                                                    <img src="https://docs.microsoft.com/en-us/azure/media/index/getstarted-developer.png" alt="Microsoft Graph icon">
+                                                </div>
+                                            </div>
+                                            <div class="cardText">
+                                                <h3><a href="/en-us/microsoft-graph/concepts">Advanced Concepts</a></h3>
+                                                <p><a href="https://msdn.microsoft.com/library/hh425099(v=vs.110).aspx">Hybrid deployments (preview)</a></p>
+                                                <p><a href="https://msdn.microsoft.com/library/bb400852(v=vs.110).aspx">Sovereign Deployments</a></p>
                                             </div>
                                         </div>
                                     </div>
@@ -172,209 +168,253 @@ ms.assetid:
                         <a href="#web">Microsoft Graph APIs</a>
                         <ul id="web" class="cardsG">
                             <li>
-                                <a href="https://www.asp.net/get-started">
+                                <a href="/en-us/microsoft-graph/api-reference/v1.0/resources/user">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
                                                 <div class="cardImageOuter">
                                                     <div class="cardImage">
-                                                        <img src="./docs/images/hub/net-docs-web-1.svg" alt="" />
+                                                        <img src="https://docs.microsoft.com/en-us/azure/media/index/activedirectory.svg" alt="Active Directory" style="height:48px">
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
-                                                    <h3><a href="/api-reference/v1.0/resources/onedrive">OneDrive API<a></h3>
-                                                    <p>Learn how to connect to OneDrive.</p>
+                                                    <h3><a href="/en-us/microsoft-graph/api-reference/v1.0/resources/group">Azure Active Directory (Users) API<a></a></a></h3>
+                                                    <p><a href="/en-us/microsoft-graph/api-reference/v1.0/resources/users">Gain access to user information</a></p>
+                                                    <p><a href="/en-us/microsoft-graph/api-reference/v1.0/resources/directoryobject">Access an organizations directory</a></p>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                </a>
-                            </li>
+                                
+                            </a></li>
                             <li>
-                                <a href="/aspnet/core/">
+                                <a href="/en-us/microsoft-graph/api-reference/v1.0/resources/excel">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
                                                 <div class="cardImageOuter">
                                                     <div class="cardImage">
-                                                        <img src="./docs/images/hub/net-docs-web-2.svg" alt="" />
+                                                        <img src="https://static2.sharepointonline.com/files/fabric/assets/brand-icons/product/svg/excel_16x1.svg" alt="Excel" style="height:48px">
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
-                                                    <h3>Using ASP.NET Core</h3>
-                                                    <p>Learn how to build modern web apps with ASP.NET Core.</p>
+                                                    <h3><a href="/en-us/microsoft-graph/api-reference/v1.0/resources/excel">Excel API<a></a></a></h3>
+                                                    <p><a href="/en-us/microsoft-graph/api-reference/v1.0/resources/excel">Connect to User&#39;s workbooks and use Excel as a service</a></p>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                </a>
-                            </li>
+                                
+                            </a></li>
                             <li>
-                                <a href="https://www.asp.net/learn">
+                                <a href="/en-us/microsoft-graph/api-reference/v1.0/resources/drive">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
                                                 <div class="cardImageOuter">
                                                     <div class="cardImage">
-                                                        <img src="./docs/images/hub/net-docs-web-3.svg" alt="" />
+                                                        <img src="https://static2.sharepointonline.com/files/fabric/assets/brand-icons/product/svg/onedrive_16x1.svg" alt="OneDrive" style="height:48px">
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
-                                                    <h3>What is ASP.NET?</h3>
-                                                    <p>Learn about the ASP.NET web platform.</p>
+                                                    <h3><a href="/en-us/microsoft-graph/api-reference/v1.0/resources/drive">OneDrive API<a></a></a></h3>
+                                                    <p><a href="/en-us/microsoft-graph/api-reference/v1.0/resources/drive">Connect to files stored on a user&#39;s OneDrive</a></p>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                </a>
-                            </li>
+                                
+                            </a></li>
                             <li>
-                                <a href="/aspnet/core/tutorials/first-mvc-app/start-mvc">
+                                <a href="/en-us/microsoft-graph/api-reference/v1.0/resources/mail">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
                                                 <div class="cardImageOuter">
                                                     <div class="cardImage">
-                                                        <img src="./docs/images/hub/net-docs-web-4.svg" alt="" />
+                                                        <img src="https://static2.sharepointonline.com/files/fabric/assets/brand-icons/product/svg/outlook_16x1.svg" alt="outlook" style="height:48px">
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
-                                                    <h3>ASP.NET Core in Visual Studio</h3>
-                                                    <p>Learn the basics of building an ASP.NET Core MVC web app using Visual
-                                                        Studio 2015.</p>
+                                                    <h3><a href="/en-us/microsoft-graph/api-reference/v1.0/resources/message">Outlook REST APIs<a></a></a></h3>
+                                                    <p><a href="/en-us/microsoft-graph/api-reference/v1.0/resources/calendar">Learn how to connect to mail stored on a user&#39;s Outlook</a></p>
+                                                    <p><a href="/en-us/microsoft-graph/api-reference/v1.0/resources/contact">Learn how to connect to a user&#39;s calendar</a></p>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                </a>
-                            </li>
+                                
+                            </a></li>
                             <li>
-                                <a href="/dotnet/articles/framework/docker/aspnetmvc">
+                                <a href="/en-us/microsoft-graph/api-reference/v1.0/resources/user">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
                                                 <div class="cardImageOuter">
                                                     <div class="cardImage">
-                                                        <img src="./docs/images/hub/net-docs-web-5.svg" alt="" />
+                                                        <img src="https://docs.microsoft.com/en-us/azure/media/index/activedirectory.svg" alt="Active Directory" style="height:48px">
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
-                                                    <h3>ASP.NET Apps in Containers</h3>
-                                                    <p>Learn how to deploy ASP.NET apps with Docker.</p>
+                                                    <h3><a href="/en-us/microsoft-graph/api-reference/v1.0/resources/group">Azure Active Directory (Users) API<a></a></a></h3>
+                                                    <p><a href="/en-us/microsoft-graph/api-reference/v1.0/resources/users">Gain access to user information</a></p>
+                                                    <p><a href="/en-us/microsoft-graph/api-reference/v1.0/resources/directoryobject">Access an organizations directory</a></p>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                </a>
-                            </li>
+                                
+                            </a></li>
                             <li>
-                                <a href="/aspnet/core/tutorials/your-first-mac-aspnet">
+                                <a href="/en-us/microsoft-graph/api-reference/v1.0/resources/webhooks">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
                                                 <div class="cardImageOuter">
                                                     <div class="cardImage">
-                                                        <img src="./docs/images/hub/net-docs-web-6.svg" alt="" />
+                                                        <img src="https://docs.microsoft.com/en-us/azure/media/index/azurefunctions.svg" alt="Webhook" style="height:48px">
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
-                                                    <h3>ASP.NET on macOS and VS Code</h3>
-                                                    <p>Learn how to set up, build, and deploy ASP.NET Core apps on macOS with
-                                                        Visual Studio Code.</p>
+                                                    <h3><a href="/en-us/microsoft-graph/api-reference/v1.0/resources/webhooks"><a>Do more with the Microsoft Graph</a></a></h3>
+                                                    <p><a href="/en-us/microsoft-graph/api-reference/v1.0/resources/webhooks">Get notifications of state changes to a user&#39;s data</a></p>
+                                                    <p><a href="/en-us/microsoft-graph/api-reference/v1.0/resources/opentypeextension">Use Data Extensions to add your own custom metadata to supported resources like messages, events, or contacts</a></p>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                </a>
-                            </li>
+                                
+                            </a></li>
                         </ul>
                     </li>
                     <li>
-                        <a href="#cloud">Cloud</a>
+                        <a href="#cloud">Microsoft Graph Beta APIs</a>
                         <ul id="cloud" class="cardsG">
                             <li>
-                                <a href="https://azure.microsoft.com/develop/net">
+                                <a href="/en-us/microsoft-graph/api-reference/beta/resources/user">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
                                                 <div class="cardImageOuter">
                                                     <div class="cardImage">
-                                                        <img src="./docs/images/hub/net-docs-cloud-1.svg" alt="" />
+                                                        <img src="https://docs.microsoft.com/en-us/azure/media/index/activedirectory.svg" alt="Active Directory" style="height:48px">
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
-                                                    <h3>.NET Azure Documentation</h3>
-                                                    <p>Learn about Azure services such as Web Apps, WebJobs, Cloud Services,
-                                                        and VMs.</p>
+                                                    <h3><a href="/en-us/microsoft-graph/api-reference/beta/resources/group">Azure Active Directory (Users) API<a></a></a></h3>
+                                                    <p><a href="/en-us/microsoft-graph/api-reference/beta/resources/users">Gain access to user information</a></p>
+                                                    <p><a href="/en-us/microsoft-graph/api-reference/beta/resources/directoryobject">Access an organizations directory</a></p>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                </a>
-                            </li>
+                                
+                            </a></li>
                             <li>
-                                <a href="https://azure.microsoft.com/documentation/articles/cloud-services-dotnet-get-started">
+                                <a href="/en-us/microsoft-graph/api-reference/beta/resources/excel">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
                                                 <div class="cardImageOuter">
                                                     <div class="cardImage">
-                                                        <img src="./docs/images/hub/net-docs-cloud-2.svg" alt="" />
+                                                        <img src="https://static2.sharepointonline.com/files/fabric/assets/brand-icons/product/svg/excel_16x1.svg" alt="Excel" style="height:48px">
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
-                                                    <h3>Azure Cloud Services and ASP.NET</h3>
-                                                    <p>Learn to configure, monitor, and scale your cloud services in Azure.</p>
+                                                    <h3><a href="/en-us/microsoft-graph/api-reference/beta/resources/excel">Excel API<a></a></a></h3>
+                                                    <p><a href="/en-us/microsoft-graph/api-reference/beta/resources/excel">Connect to User&#39;s workbooks and use Excel as a service</a></p>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                </a>
-                            </li>
+                                
+                            </a></li>
                             <li>
-                                <a href="/dotnet/articles/fsharp/using-fsharp-on-azure">
+                                <a href="/en-us/microsoft-graph/api-reference/beta/resources/drive">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
                                                 <div class="cardImageOuter">
                                                     <div class="cardImage">
-                                                        <img src="./docs/images/hub/net-docs-cloud-3.svg" alt="" />
+                                                        <img src="https://static2.sharepointonline.com/files/fabric/assets/brand-icons/product/svg/onedrive_16x1.svg" alt="OneDrive" style="height:48px">
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
-                                                    <h3>Using F# on Azure</h3>
-                                                    <p>Learn how to use various Azure services in F# such as Azure Storage,
-                                                        Cloud Services, and Azure Functions.</p>
+                                                    <h3><a href="/en-us/microsoft-graph/api-reference/beta/resources/drive">OneDrive API<a></a></a></h3>
+                                                    <p><a href="/en-us/microsoft-graph/api-reference/beta/resources/drive">Connect to files stored on a user&#39;s OneDrive</a></p>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                </a>
-                            </li>
+                                
+                            </a></li>
                             <li>
-                                <a href="https://azure.microsoft.com/documentation/services/storage/">
+                                <a href="/en-us/microsoft-graph/api-reference/beta/resources/mail">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
                                                 <div class="cardImageOuter">
                                                     <div class="cardImage">
-                                                        <img src="./docs/images/hub/net-docs-cloud-4.svg" alt="" />
+                                                        <img src="https://static2.sharepointonline.com/files/fabric/assets/brand-icons/product/svg/outlook_16x1.svg" alt="outlook" style="height:48px">
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
-                                                    <h3>Azure Storage</h3>
-                                                    <p>Learn about Azure Storage, and how to create applications using Azure
-                                                        blobs, tables, queues, and files.</p>
+                                                    <h3><a href="/en-us/microsoft-graph/api-reference/beta/resources/message">Outlook REST APIs<a></a></a></h3>
+                                                    <p><a href="/en-us/microsoft-graph/api-reference/beta/resources/calendar">Learn how to connect to mail stored on a user&#39;s Outlook</a></p>
+                                                    <p><a href="/en-us/microsoft-graph/api-reference/beta/resources/contact">Learn how to connect to a user&#39;s calendar</a></p>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                </a>
-                            </li>
+                                
+                            </a></li>
+                            <li>
+                                <a href="/en-us/microsoft-graph/api-reference/beta/resources/user">
+                                    <div class="cardSize">
+                                        <div class="cardPadding">
+                                            <div class="card">
+                                                <div class="cardImageOuter">
+                                                    <div class="cardImage">
+                                                        <img src="https://docs.microsoft.com/en-us/azure/media/index/activedirectory.svg" alt="Active Directory" style="height:48px">
+                                                    </div>
+                                                </div>
+                                                <div class="cardText">
+                                                    <h3><a href="/en-us/microsoft-graph/api-reference/beta/resources/group">Azure Active Directory (Users) API<a></a></a></h3>
+                                                    <p><a href="/en-us/microsoft-graph/api-reference/beta/resources/users">Gain access to user information</a></p>
+                                                    <p><a href="/en-us/microsoft-graph/api-reference/beta/resources/directoryobject">Access an organizations directory</a></p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                            </a></li>
+                            <li>
+                                <a href="/en-us/microsoft-graph/api-reference/beta/resources/webhooks">
+                                    <div class="cardSize">
+                                        <div class="cardPadding">
+                                            <div class="card">
+                                                <div class="cardImageOuter">
+                                                    <div class="cardImage">
+                                                        <img src="https://docs.microsoft.com/en-us/azure/media/index/azurefunctions.svg" alt="Webhook" style="height:48px">
+                                                    </div>
+                                                </div>
+                                                <div class="cardText">
+                                                    <h3><a href="/en-us/microsoft-graph/api-reference/beta/resources/webhooks"><a>Do more with the Microsoft Graph</a></a></h3>
+                                                    <p><a href="/en-us/microsoft-graph/api-reference/beta/resources/webhooks">Get notifications of state changes to a user&#39;s data</a></p>
+                                                    <p><a href="/en-us/microsoft-graph/api-reference/beta/resources/opentypeextension">Use Data Extensions to add your own custom metadata to supported resources like messages, events, or contacts</a></p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                            </a></li>
                         </ul>
                     </li>
                 </ul>
             </li>
         </ul>
     </div>
-</div>
+</div></div></div>
+      </div>
+    </main>
+
