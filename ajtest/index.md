@@ -15,11 +15,7 @@ ms.technology:
 ms.suite:
 ms.assetid:
 ---
-
-
-      <div class="container">
-      <div><div class="content"><div id="main" class="v2">
-    <div class="container">
+<div class="container">
         <ul class="cardsY panelContent featuredContent">
             <li>
                 <a href="https://www.microsoft.com/net/tutorials/csharp/getting-started">
@@ -414,6 +410,4 @@ ms.assetid:
             </li>
         </ul>
     </div>
-</div></div></div>
-      </div>
 
