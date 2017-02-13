@@ -16,7 +16,7 @@ ms.suite:
 ms.assetid:
 ---
 
-    <main ms.pgarea="body">
+
       <div class="container">
       <div><div class="content"><div id="main" class="v2">
     <div class="container">
@@ -416,5 +416,4 @@ ms.assetid:
     </div>
 </div></div></div>
       </div>
-    </main>
 
