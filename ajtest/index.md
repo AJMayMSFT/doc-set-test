@@ -59,9 +59,59 @@ ms.assetid:
                               </div>
                             </li>
 
-              
-            </ul>
-        </li>
+
+                          </ul>
+                        </li>
+                        <li>
+                          <a data-default="true" href="#overview">Overview</a>
+                          <ul id="overview" class="cardsA">
+                              <li>
+                                  <a href="https://graph.microsoft.io/en-us/docs/overview/overview">
+                                      <div class="cardSize">
+                                          <div class="cardPadding">
+                                              <div class="card">
+                                                  <div class="cardImageOuter">
+                                                      <div class="cardImage">
+                                                          <img src="media/index/virtualmachine.svg" alt="">
+                                                      </div>
+                                                  </div>
+                                                  <div class="cardText">
+                                                      <h3>Microsoft Graph Overview</h3>
+                                                      <p>What the hell are we talking about, anyway?</p>
+                                                  </div>
+                                              </div>
+                                          </div>
+                                      </div>
+                                  </a>
+                              </li>
+
+                            </ul>
+                        </li>
+                        <li>
+                          <a data-default="true" href="#explore">Overview</a>
+                          <ul id="explore" class="cardsA">
+                              <li>
+                                  <a href="https://graph.microsoft.io/en-us/graph-explorer">
+                                      <div class="cardSize">
+                                          <div class="cardPadding">
+                                              <div class="card">
+                                                  <div class="cardImageOuter">
+                                                      <div class="cardImage">
+                                                          <img src="media/index/virtualmachine.svg" alt="">
+                                                      </div>
+                                                  </div>
+                                                  <div class="cardText">
+                                                      <h3>Try the Graph Explorer</h3>
+                                                      <p>Cause you've got nothing better to do, right?</p>
+                                                  </div>
+                                              </div>
+                                          </div>
+                                      </div>
+                                  </a>
+                              </li>
+
+                            </ul>
+                        </li>
         <li>
             <a href="#sdks">SDKs and Tools</a>
             <ul id="sds">
@@ -76,4 +126,3 @@ ms.assetid:
         </li>
     </ul>
 </div>
-
