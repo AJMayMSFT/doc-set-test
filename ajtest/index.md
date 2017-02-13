@@ -23,7 +23,7 @@ ms.assetid:
             <ul id="services">
               <li>
                   <a href="#all">All</a>
-                  <ul id="all" class="directory">
+                  <!-- <ul id="all" class="directory">
                       <li>
                           <div class="group">
                               <h3>Overview</h3>
@@ -60,7 +60,7 @@ ms.assetid:
                             </li>
 
 
-                          </ul>
+                          </ul> -->
                         </li>
                         <li>
                           <a data-default="true" href="#overview">Overview</a>
@@ -88,7 +88,7 @@ ms.assetid:
                             </ul>
                         </li>
                         <li>
-                          <a data-default="true" href="#explore">Overview</a>
+                          <a data-default="true" href="#explore">Explore</a>
                           <ul id="explore" class="cardsA">
                               <li>
                                   <a href="https://graph.microsoft.io/en-us/graph-explorer">
