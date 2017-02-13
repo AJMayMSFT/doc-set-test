@@ -19,49 +19,8 @@ ms.assetid:
 <div class="container">
     <ul class="pivots">
         <li>
-            <a href="#services">Documentation</a>
-            <ul id="services">
-              <!-- <li>
-                  <a href="#all">All</a>
-                  <ul id="all" class="directory">
-                      <li>
-                          <div class="group">
-                              <h3>Overview</h3>
-                              <ul>
-                                  <li>
-                                      <a href="https://graph.microsoft.io/en-us/docs/overview/overview">
-                                          <img src="media/index/virtualmachine.svg" alt="">
-                                          <p>MicroSoft Graph Overview</p>
-                                      </a>
-                                  </li>
-                                  <li>
-                                      <a href="https://graph.microsoft.io/en-us/graph-explorer">
-                                          <img src="media/index/virtualmachine.svg" alt="">
-                                          <p>Graph explorer</p>
-                                      </a>
-                                  </li>
-                                </ul>
-                                <h3>Basics</h3>
-                                <ul>
-                                  <li>
-                                      <a href="https://graph.microsoft.io/en-us/docs/overview/overview">
-                                          <img src="media/index/virtualmachine.svg" alt="">
-                                          <p>Authentication</p>
-                                      </a>
-                                  </li>
-                                  <li>
-                                      <a href="https://graph.microsoft.io/en-us/docs/overview/overview">
-                                          <img src="media/index/virtualmachine.svg" alt="">
-                                          <p>Paging</p>
-                                      </a>
-                                  </li>
-                                </ul>
-                              </div>
-                            </li>
-
-
-                          </ul>
-                        </li> -->
+            <a href="#docs">Documentation</a>
+            <ul id="docs">
                         <li>
                           <a data-default="true" href="#overview">Overview</a>
                           <ul id="overview" class="cardsA">
@@ -112,9 +71,11 @@ ms.assetid:
 
                             </ul>
                         </li>
+                      </ul>
+                    </li>
         <li>
             <a href="#sdks">SDKs and Tools</a>
-            <ul id="sds">
+            <ul id="sdks">
               <li>rails sdk</li>
             </ul>
         </li>
@@ -125,6 +86,5 @@ ms.assetid:
             </ul>
         </li>
     </ul>
-  </li>
-  </ul>
+
 </div>
