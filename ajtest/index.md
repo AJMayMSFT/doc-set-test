@@ -111,8 +111,9 @@ ms.assetid:
                         </li>
                         <li>
                           <a data-default="true" href="#apis">API reference</a>
+                          <p>These APIs are available for use in production.</p>
                           <ul id="apis" class="cardsA">
-                              <p>These APIs are available for use in production.</p>
+
                               <li>
                                       <div class="cardSize">
                                           <div class="cardPadding">
@@ -127,10 +128,10 @@ ms.assetid:
                                                       <a href="https://graph.microsoft.io/en-us/docs/api-reference/v1.0/resources/message">
                                                         <p>Mail</p>
                                                       </a>
-                                                      <a href="https://graph.microsoft.io/en-us/docs/api-reference/v1.0/resources/message">
+                                                      <a href="https://graph.microsoft.io/en-us/docs/api-reference/v1.0/resources/calendar">
                                                         <p>Calendar</p>
                                                       </a>
-                                                      <a href="https://graph.microsoft.io/en-us/docs/api-reference/v1.0/resources/message">
+                                                      <a href="https://graph.microsoft.io/en-us/docs/api-reference/v1.0/resources/contact">
                                                         <p>Contacts</p>
                                                       </a>
                                                   </div>
