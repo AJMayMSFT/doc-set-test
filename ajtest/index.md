@@ -162,6 +162,69 @@ ms.assetid:
                                           </div>
                                       </div>
                               </li>
+                              <li>
+                                      <div class="cardSize">
+                                          <div class="cardPadding">
+                                              <div class="card">
+                                                  <div class="cardImageOuter">
+                                                      <div class="cardImage">
+                                                          <img src="onedrive.png" alt="">
+                                                      </div>
+                                                  </div>
+                                                  <div class="cardText">
+                                                      <a href="https://graph.microsoft.io/en-us/docs/api-reference/v1.0/resources/drive">
+                                                        <p>Drive</p>
+                                                      </a>
+                                                      <a href="https://graph.microsoft.io/en-us/docs/api-reference/v1.0/resources/driveitem">
+                                                        <p>DriveItem</p>
+                                                      </a>
+                                                  </div>
+                                              </div>
+                                          </div>
+                                      </div>
+                              </li>
+                              <li>
+                                      <div class="cardSize">
+                                          <div class="cardPadding">
+                                              <div class="card">
+                                                  <div class="cardImageOuter">
+                                                      <div class="cardImage">
+                                                          <img src="excel.png" alt="">
+                                                      </div>
+                                                  </div>
+                                                  <div class="cardText">
+                                                      <a href="https://graph.microsoft.io/en-us/docs/api-reference/v1.0/resources/excel">
+                                                        <p>Workbook</p>
+                                                      </a>
+                                                  </div>
+                                              </div>
+                                          </div>
+                                      </div>
+                              </li>
+                              <li>
+                                      <div class="cardSize">
+                                          <div class="cardPadding">
+                                              <div class="card">
+                                                  <div class="cardImageOuter">
+                                                      <div class="cardImage">
+                                                          <img src="office.png" alt="">
+                                                      </div>
+                                                  </div>
+                                                  <div class="cardText">
+                                                      <a href="https://graph.microsoft.io/en-us/docs/api-reference/v1.0/resources/attachment">
+                                                        <p>Attachment</p>
+                                                      </a>
+                                                      <a href="https://graph.microsoft.io/en-us/docs/api-reference/v1.0/resources/opentypeextension">
+                                                        <p>DataExtensions</p>
+                                                      </a>
+                                                      <a href="https://graph.microsoft.io/en-us/docs/api-reference/v1.0/resources/webhooks">
+                                                        <p>Webhooks</p>
+                                                      </a>
+                                                  </div>
+                                              </div>
+                                          </div>
+                                      </div>
+                              </li>
                             </ul>
                         </li>
                       </ul>
