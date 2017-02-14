@@ -111,7 +111,7 @@ ms.assetid:
                         </li>
                         <li>
                           <a data-default="true" href="#apis">API reference</a>
-                          <p>These APIs are available for use in production.</p>
+
                           <ul id="apis" class="cardsA">
 
                               <li>
@@ -124,7 +124,6 @@ ms.assetid:
                                                       </div>
                                                   </div>
                                                   <div class="cardText">
-                                                      <h3>Outlook</h3>
                                                       <a href="https://graph.microsoft.io/en-us/docs/api-reference/v1.0/resources/message">
                                                         <p>Mail</p>
                                                       </a>
@@ -139,7 +138,30 @@ ms.assetid:
                                           </div>
                                       </div>
                               </li>
-
+                              <li>
+                                      <div class="cardSize">
+                                          <div class="cardPadding">
+                                              <div class="card">
+                                                  <div class="cardImageOuter">
+                                                      <div class="cardImage">
+                                                          <img src="azure.png" alt="">
+                                                      </div>
+                                                  </div>
+                                                  <div class="cardText">
+                                                      <a href="https://graph.microsoft.io/en-us/docs/api-reference/v1.0/resources/directoryobject">
+                                                        <p>Directory</p>
+                                                      </a>
+                                                      <a href="https://graph.microsoft.io/en-us/docs/api-reference/v1.0/resources/group">
+                                                        <p>Groups</p>
+                                                      </a>
+                                                      <a href="https://graph.microsoft.io/en-us/docs/api-reference/v1.0/resources/users">
+                                                        <p>Users</p>
+                                                      </a>
+                                                  </div>
+                                              </div>
+                                          </div>
+                                      </div>
+                              </li>
                             </ul>
                         </li>
                       </ul>
