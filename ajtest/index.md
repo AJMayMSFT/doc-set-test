@@ -140,8 +140,14 @@ ms.assetid:
             <a href="#sdks">SDKs and Tools</a>
             <ul id="sdks">
               <li>
-                <a data-default="true" href="#kits">SDKs</a>
-                <ul id="kits" class="cardsA">
+                <a data-default="true" href="#graphsdks">Graph SDKs</a>
+                <ul id="graphsdks" class="cardsA">
+
+                </ul>
+              </li>
+              <li>
+                <a data-default="true" href="#authsdks">Authentication SDKs</a>
+                <ul id="authsdks" class="cardsA">
                     <li>
                         <a href="https://graph.microsoft.io/en-us/docs/overview/overview">
                             <div class="cardSize">
