@@ -112,24 +112,31 @@ ms.assetid:
                         <li>
                           <a data-default="true" href="#apis">API reference</a>
                           <ul id="apis" class="cardsA">
+                              <p>These APIs are available for use in production.</p>
                               <li>
-                                  <a href="https://graph.microsoft.io/en-us/graph-explorer">
                                       <div class="cardSize">
                                           <div class="cardPadding">
                                               <div class="card">
                                                   <div class="cardImageOuter">
                                                       <div class="cardImage">
-                                                          <img src="media/index/virtualmachine.svg" alt="">
+                                                          <img src="outlook.png" alt="">
                                                       </div>
                                                   </div>
                                                   <div class="cardText">
-                                                      <h3>Try the Graph Explorer</h3>
-                                                      <p>Cause you've got nothing better to do, right?</p>
+                                                      <h3>Outlook</h3>
+                                                      <a href="https://graph.microsoft.io/en-us/docs/api-reference/v1.0/resources/message">
+                                                        <p>Mail</p>
+                                                      </a>
+                                                      <a href="https://graph.microsoft.io/en-us/docs/api-reference/v1.0/resources/message">
+                                                        <p>Calendar</p>
+                                                      </a>
+                                                      <a href="https://graph.microsoft.io/en-us/docs/api-reference/v1.0/resources/message">
+                                                        <p>Contacts</p>
+                                                      </a>
                                                   </div>
                                               </div>
                                           </div>
                                       </div>
-                                  </a>
                               </li>
 
                             </ul>
