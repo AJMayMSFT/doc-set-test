@@ -110,6 +110,199 @@ ms.assetid:
                             </ul>
                         </li>
                         <li>
+                          <a data-default="true" href="#beta">Beta reference</a>
+
+                          <ul id="beta" class="cardsA">
+                            <li>
+                                    <div class="cardSize">
+                                        <div class="cardPadding">
+                                            <div class="card">
+                                                <div class="cardImageOuter">
+                                                    <div class="cardImage">
+                                                        <img src="people.png" alt="">
+                                                    </div>
+                                                </div>
+                                                <div class="cardText">
+                                                    <a href="https://graph.microsoft.io/en-us/docs/api-reference/beta/resources/person">
+                                                      <p>Person</p>
+                                                    </a>
+                                                    <a href="https://graph.microsoft.io/en-us/docs/api-reference/beta/resources/mention">
+                                                      <p>Mention</p>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                            </li>
+                            <li>
+                                    <div class="cardSize">
+                                        <div class="cardPadding">
+                                            <div class="card">
+                                                <div class="cardImageOuter">
+                                                    <div class="cardImage">
+                                                        <img src="planner.png" alt="">
+                                                    </div>
+                                                </div>
+                                                <div class="cardText">
+                                                    <a href="https://graph.microsoft.io/en-us/docs/api-reference/beta/resources/task">
+                                                      <p>Tasks</p>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                            </li>
+                            <li>
+                                    <div class="cardSize">
+                                        <div class="cardPadding">
+                                            <div class="card">
+                                                <div class="cardImageOuter">
+                                                    <div class="cardImage">
+                                                        <img src="sharepoint.png" alt="">
+                                                    </div>
+                                                </div>
+                                                <div class="cardText">
+                                                    <a href="https://graph.microsoft.io/en-us/docs/api-reference/beta/resources/sharepoint">
+                                                      <p>Sites</p>
+                                                    </a>
+                                                    <a href="https://graph.microsoft.io/en-us/docs/api-reference/beta/resources/list">
+                                                      <p>Lists</p>
+                                                    </a>
+                                                    <a href="https://graph.microsoft.io/en-us/docs/api-reference/beta/resources/listitem">
+                                                      <p>ListItems</p>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                            </li>
+                            <li>
+                                    <div class="cardSize">
+                                        <div class="cardPadding">
+                                            <div class="card">
+                                                <div class="cardImageOuter">
+                                                    <div class="cardImage">
+                                                        <img src="azure.png" alt="">
+                                                    </div>
+                                                </div>
+                                                <div class="cardText">
+                                                  <a href="https://graph.microsoft.io/en-us/docs/api-reference/beta/resources/privilegedidentitymanagement_root">
+                                                    <p>Privileged Identity</p>
+                                                  </a>
+                                                  <a href="https://graph.microsoft.io/en-us/docs/api-reference/beta/resources/identityprotection_root">
+                                                    <p>Identity Protection</p>
+                                                  </a>
+                                                  <a href="https://graph.microsoft.io/en-us/docs/api-reference/beta/resources/intune_graph_overview">
+                                                    <p>Intune</p>
+                                                  </a>
+                                                    <a href="https://graph.microsoft.io/en-us/docs/api-reference/v1.0/resources/directoryobject">
+                                                      <p>Directory</p>
+                                                    </a>
+                                                    <a href="https://graph.microsoft.io/en-us/docs/api-reference/v1.0/resources/group">
+                                                      <p>Groups</p>
+                                                    </a>
+                                                    <a href="https://graph.microsoft.io/en-us/docs/api-reference/v1.0/resources/users">
+                                                      <p>Users</p>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                            </li>
+                              <li>
+                                      <div class="cardSize">
+                                          <div class="cardPadding">
+                                              <div class="card">
+                                                  <div class="cardImageOuter">
+                                                      <div class="cardImage">
+                                                          <img src="outlook.png" alt="">
+                                                      </div>
+                                                  </div>
+                                                  <div class="cardText">
+                                                      <a href="https://graph.microsoft.io/en-us/docs/api-reference/v1.0/resources/message">
+                                                        <p>Mail</p>
+                                                      </a>
+                                                      <a href="https://graph.microsoft.io/en-us/docs/api-reference/v1.0/resources/calendar">
+                                                        <p>Calendar</p>
+                                                      </a>
+                                                      <a href="https://graph.microsoft.io/en-us/docs/api-reference/v1.0/resources/contact">
+                                                        <p>Contacts</p>
+                                                      </a>
+                                                  </div>
+                                              </div>
+                                          </div>
+                                      </div>
+                              </li>
+
+                              <li>
+                                      <div class="cardSize">
+                                          <div class="cardPadding">
+                                              <div class="card">
+                                                  <div class="cardImageOuter">
+                                                      <div class="cardImage">
+                                                          <img src="onedrive.png" alt="">
+                                                      </div>
+                                                  </div>
+                                                  <div class="cardText">
+                                                      <a href="https://graph.microsoft.io/en-us/docs/api-reference/v1.0/resources/drive">
+                                                        <p>Drive</p>
+                                                      </a>
+                                                      <a href="https://graph.microsoft.io/en-us/docs/api-reference/v1.0/resources/driveitem">
+                                                        <p>DriveItem</p>
+                                                      </a>
+                                                  </div>
+                                              </div>
+                                          </div>
+                                      </div>
+                              </li>
+                              <li>
+                                      <div class="cardSize">
+                                          <div class="cardPadding">
+                                              <div class="card">
+                                                  <div class="cardImageOuter">
+                                                      <div class="cardImage">
+                                                          <img src="excel.png" alt="">
+                                                      </div>
+                                                  </div>
+                                                  <div class="cardText">
+                                                      <a href="https://graph.microsoft.io/en-us/docs/api-reference/v1.0/resources/excel">
+                                                        <p>Workbook</p>
+                                                      </a>
+                                                  </div>
+                                              </div>
+                                          </div>
+                                      </div>
+                              </li>
+                              <li>
+                                      <div class="cardSize">
+                                          <div class="cardPadding">
+                                              <div class="card">
+                                                  <div class="cardImageOuter">
+                                                      <div class="cardImage">
+                                                          <img src="office.png" alt="">
+                                                      </div>
+                                                  </div>
+                                                  <div class="cardText">
+                                                    <a href="https://graph.microsoft.io/en-us/docs/api-reference/beta/resources/orgcontact">
+                                                      <p>Org contacts</p>
+                                                    </a>
+                                                      <a href="https://graph.microsoft.io/en-us/docs/api-reference/v1.0/resources/attachment">
+                                                        <p>Attachment</p>
+                                                      </a>
+                                                      <a href="https://graph.microsoft.io/en-us/docs/api-reference/v1.0/resources/opentypeextension">
+                                                        <p>DataExtensions</p>
+                                                      </a>
+                                                      <a href="https://graph.microsoft.io/en-us/docs/api-reference/v1.0/resources/webhooks">
+                                                        <p>Webhooks</p>
+                                                      </a>
+                                                  </div>
+                                              </div>
+                                          </div>
+                                      </div>
+                              </li>
+                            </ul>
+                        </li>
+                        <li>
                           <a data-default="true" href="#apis">API reference</a>
 
                           <ul id="apis" class="cardsA">
