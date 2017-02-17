@@ -21,9 +21,135 @@ ms.assetid:
         <li>
             <a href="#docs">Documentation</a>
             <ul id="docs">
+              <li>
+                <a data-default="true" href="#getstarted">Getting Started</a>
+                <ul id="getstarted" class="cardsA">
+                    <li>
+                        <a href="https://graph.microsoft.io/en-us/docs/overview/overview">
+                            <div class="cardSize">
+                                <div class="cardPadding">
+                                    <div class="card">
+                                        <div class="cardImageOuter">
+                                            <div class="cardImage">
+                                                <img src="media/index/virtualmachine.svg" alt="">
+                                            </div>
+                                        </div>
+                                        <div class="cardText">
+                                            <h3>Box 1</h3>
+                                            <p>Subhead text goes here.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://graph.microsoft.io/en-us/docs/overview/overview">
+                            <div class="cardSize">
+                                <div class="cardPadding">
+                                    <div class="card">
+                                        <div class="cardImageOuter">
+                                            <div class="cardImage">
+                                                <img src="media/index/virtualmachine.svg" alt="">
+                                            </div>
+                                        </div>
+                                        <div class="cardText">
+                                            <h3>Getting started option 2</h3>
+                                            <p>Some other text here.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://graph.microsoft.io/en-us/docs/overview/overview">
+                            <div class="cardSize">
+                                <div class="cardPadding">
+                                    <div class="card">
+                                        <div class="cardImageOuter">
+                                            <div class="cardImage">
+                                                <img src="media/index/virtualmachine.svg" alt="">
+                                            </div>
+                                        </div>
+                                        <div class="cardText">
+                                            <h3>Getting started option 3</h3>
+                                            <p>Some other text here.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+
+                  </ul>
+              </li>
+              <li>
+                <a data-default="true" href="#basics">Basics</a>
+                <ul id="basics" class="cardsA">
+                    <li>
+                        <a href="https://graph.microsoft.io/en-us/docs/overview/overview">
+                            <div class="cardSize">
+                                <div class="cardPadding">
+                                    <div class="card">
+                                        <div class="cardImageOuter">
+                                            <div class="cardImage">
+                                                <img src="media/index/virtualmachine.svg" alt="">
+                                            </div>
+                                        </div>
+                                        <div class="cardText">
+                                            <h3>Overview</h3>
+                                            <p>Link to conceptual overview topic.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://graph.microsoft.io/en-us/docs/overview/overview">
+                            <div class="cardSize">
+                                <div class="cardPadding">
+                                    <div class="card">
+                                        <div class="cardImageOuter">
+                                            <div class="cardImage">
+                                                <img src="media/index/virtualmachine.svg" alt="">
+                                            </div>
+                                        </div>
+                                        <div class="cardText">
+                                            <h3>Basics option 2</h3>
+                                            <p>Some other text here.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://graph.microsoft.io/en-us/docs/overview/overview">
+                            <div class="cardSize">
+                                <div class="cardPadding">
+                                    <div class="card">
+                                        <div class="cardImageOuter">
+                                            <div class="cardImage">
+                                                <img src="media/index/virtualmachine.svg" alt="">
+                                            </div>
+                                        </div>
+                                        <div class="cardText">
+                                            <h3>Basics option 3</h3>
+                                            <p>Some other text here.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+
+                  </ul>
+              </li>
                         <li>
-                          <a data-default="true" href="#overview">Overview</a>
-                          <ul id="overview" class="cardsA">
+                          <a data-default="true" href="#indepth">Explore in-depth</a>
+                          <ul id="indepth" class="cardsA">
                               <li>
                                   <a href="https://graph.microsoft.io/en-us/docs/overview/overview">
                                       <div class="cardSize">
@@ -35,8 +161,8 @@ ms.assetid:
                                                       </div>
                                                   </div>
                                                   <div class="cardText">
-                                                      <h3>Microsoft Graph Overview</h3>
-                                                      <p>What the hell are we talking about, anyway?</p>
+                                                      <h3>Advanced topic one.</h3>
+                                                      <p>And some intro text here.</p>
                                                   </div>
                                               </div>
                                           </div>
@@ -54,7 +180,7 @@ ms.assetid:
                                                       </div>
                                                   </div>
                                                   <div class="cardText">
-                                                      <h3>Overview Option 2</h3>
+                                                      <h3>Advanced topic two.</h3>
                                                       <p>Some other text here.</p>
                                                   </div>
                                               </div>
@@ -73,7 +199,7 @@ ms.assetid:
                                                       </div>
                                                   </div>
                                                   <div class="cardText">
-                                                      <h3>Option 3</h3>
+                                                      <h3>Advanced topic three.</h3>
                                                       <p>Some other text here.</p>
                                                   </div>
                                               </div>
@@ -84,31 +210,7 @@ ms.assetid:
 
                             </ul>
                         </li>
-                        <li>
-                          <a data-default="true" href="#explore">Explore</a>
-                          <ul id="explore" class="cardsA">
-                              <li>
-                                  <a href="https://graph.microsoft.io/en-us/graph-explorer">
-                                      <div class="cardSize">
-                                          <div class="cardPadding">
-                                              <div class="card">
-                                                  <div class="cardImageOuter">
-                                                      <div class="cardImage">
-                                                          <img src="media/index/virtualmachine.svg" alt="">
-                                                      </div>
-                                                  </div>
-                                                  <div class="cardText">
-                                                      <h3>Try the Graph Explorer</h3>
-                                                      <p>Cause you've got nothing better to do, right?</p>
-                                                  </div>
-                                              </div>
-                                          </div>
-                                      </div>
-                                  </a>
-                              </li>
 
-                            </ul>
-                        </li>
                         <li>
                           <a data-default="true" href="#apis">API reference</a>
 
