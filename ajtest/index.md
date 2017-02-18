@@ -17,6 +17,66 @@ ms.assetid:
 ---
 
 <div class="container">
+    <ul class="cardsY panelContent featuredContent">
+        <li>
+            <a href="https://graph.microsoft.io/en-us/docs/overview/overview">
+                <div class="cardSize">
+                    <div class="cardPadding">
+                        <div class="card">
+                            <div class="cardImageOuter">
+                                <div class="cardImage">
+                                    <img data-hoverimage="articles/images/hub/featured-1.svg" src="./docs/images/hub/featured-1.png" alt="" />
+                                </div>
+                            </div>
+                            <div class="cardText">
+                                <h3>Introducing the Microsoft Graph</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="https://graph.microsoft.io/en-us/graph-explorer">
+                <div class="cardSize">
+                    <div class="cardPadding">
+                        <div class="card">
+                            <div class="cardImageOuter">
+                                <div class="cardImage">
+                                    <img data-hoverimage="articles/images/hub/featured-2.svg" src="./docs/images/hub/featured-2.png" alt="" />
+                                </div>
+                            </div>
+                            <div class="cardText">
+                                <h3>Explore the Graph online</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="https://graph.microsoft.io/en-us/getting-started">
+                <div class="cardSize">
+                    <div class="cardPadding">
+                        <div class="card">
+                            <div class="cardImageOuter">
+                                <div class="cardImage">
+                                    <img data-hoverimage="articles/images/hub/featured-3.svg" src="./docs/images/hub/featured-3.png" alt="" />
+                                </div>
+                            </div>
+                            <div class="cardText">
+                                <h3>Try the Graph Quickstart</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </li>
+    </ul>
+</div>
+
+
+<div class="container">
     <ul class="pivots">
         <li>
             <a href="#docs">Documentation</a>
