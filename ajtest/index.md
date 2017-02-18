@@ -25,7 +25,7 @@ ms.assetid:
                         <div class="card">
                             <div class="cardImageOuter">
                                 <div class="cardImage">
-                                    <img data-hoverimage="articles/images/hub/featured-1.svg" src="./docs/images/hub/featured-1.png" alt="" />
+                                    <img data-hoverimage="articles/images/hub/featured-1.svg" src="rocket.png" alt="" />
                                 </div>
                             </div>
                             <div class="cardText">
@@ -43,7 +43,7 @@ ms.assetid:
                         <div class="card">
                             <div class="cardImageOuter">
                                 <div class="cardImage">
-                                    <img data-hoverimage="articles/images/hub/featured-2.svg" src="./docs/images/hub/featured-2.png" alt="" />
+                                    <img data-hoverimage="articles/images/hub/featured-2.svg" src="rocket.png" alt="" />
                                 </div>
                             </div>
                             <div class="cardText">
@@ -61,7 +61,7 @@ ms.assetid:
                         <div class="card">
                             <div class="cardImageOuter">
                                 <div class="cardImage">
-                                    <img data-hoverimage="articles/images/hub/featured-3.svg" src="./docs/images/hub/featured-3.png" alt="" />
+                                    <img data-hoverimage="articles/images/hub/featured-3.svg" src="rocket.png" alt="" />
                                 </div>
                             </div>
                             <div class="cardText">
@@ -91,7 +91,7 @@ ms.assetid:
                                     <div class="card">
                                         <div class="cardImageOuter">
                                             <div class="cardImage">
-                                                <img src="media/index/virtualmachine.svg" alt="">
+                                                <img src="rocket.png" alt="">
                                             </div>
                                         </div>
                                         <div class="cardText">
@@ -110,7 +110,7 @@ ms.assetid:
                                     <div class="card">
                                         <div class="cardImageOuter">
                                             <div class="cardImage">
-                                                <img src="media/index/virtualmachine.svg" alt="">
+                                                <img src="rocket.png" alt="">
                                             </div>
                                         </div>
                                         <div class="cardText">
@@ -129,7 +129,7 @@ ms.assetid:
                                     <div class="card">
                                         <div class="cardImageOuter">
                                             <div class="cardImage">
-                                                <img src="media/index/virtualmachine.svg" alt="">
+                                                <img src="rocket.png" alt="">
                                             </div>
                                         </div>
                                         <div class="cardText">
@@ -154,7 +154,7 @@ ms.assetid:
                                     <div class="card">
                                         <div class="cardImageOuter">
                                             <div class="cardImage">
-                                                <img src="media/index/virtualmachine.svg" alt="">
+                                                <img src="rocket.png" alt="">
                                             </div>
                                         </div>
                                         <div class="cardText">
@@ -173,7 +173,7 @@ ms.assetid:
                                     <div class="card">
                                         <div class="cardImageOuter">
                                             <div class="cardImage">
-                                                <img src="media/index/virtualmachine.svg" alt="">
+                                                <img src="rocket.png" alt="">
                                             </div>
                                         </div>
                                         <div class="cardText">
@@ -192,7 +192,7 @@ ms.assetid:
                                     <div class="card">
                                         <div class="cardImageOuter">
                                             <div class="cardImage">
-                                                <img src="media/index/virtualmachine.svg" alt="">
+                                                <img src="rocket.png" alt="">
                                             </div>
                                         </div>
                                         <div class="cardText">
@@ -217,7 +217,7 @@ ms.assetid:
                                               <div class="card">
                                                   <div class="cardImageOuter">
                                                       <div class="cardImage">
-                                                          <img src="media/index/virtualmachine.svg" alt="">
+                                                          <img src="rocket.png" alt="">
                                                       </div>
                                                   </div>
                                                   <div class="cardText">
@@ -236,7 +236,7 @@ ms.assetid:
                                               <div class="card">
                                                   <div class="cardImageOuter">
                                                       <div class="cardImage">
-                                                          <img src="media/index/virtualmachine.svg" alt="">
+                                                          <img src="rocket.png" alt="">
                                                       </div>
                                                   </div>
                                                   <div class="cardText">
@@ -255,7 +255,7 @@ ms.assetid:
                                               <div class="card">
                                                   <div class="cardImageOuter">
                                                       <div class="cardImage">
-                                                          <img src="media/index/virtualmachine.svg" alt="">
+                                                          <img src="rocket.png" alt="">
                                                       </div>
                                                   </div>
                                                   <div class="cardText">
@@ -604,7 +604,7 @@ ms.assetid:
                                     <div class="card">
                                         <div class="cardImageOuter">
                                             <div class="cardImage">
-                                                <img src="media/index/virtualmachine.svg" alt="">
+                                                <img src="rocket.png" alt="">
                                             </div>
                                         </div>
                                         <div class="cardText">
@@ -623,7 +623,7 @@ ms.assetid:
                                     <div class="card">
                                         <div class="cardImageOuter">
                                             <div class="cardImage">
-                                                <img src="media/index/virtualmachine.svg" alt="">
+                                                <img src="rocket.png" alt="">
                                             </div>
                                         </div>
                                         <div class="cardText">
@@ -642,7 +642,7 @@ ms.assetid:
                                     <div class="card">
                                         <div class="cardImageOuter">
                                             <div class="cardImage">
-                                                <img src="media/index/virtualmachine.svg" alt="">
+                                                <img src="rocket.png" alt="">
                                             </div>
                                         </div>
                                         <div class="cardText">
@@ -678,12 +678,12 @@ ms.assetid:
                                     <div class="card">
                                         <div class="cardImageOuter">
                                             <div class="cardImage">
-                                                <img src="media/index/virtualmachine.svg" alt="">
+                                                <img src="rocket.png" alt="">
                                             </div>
                                         </div>
                                         <div class="cardText">
                                             <h3>.NET Snippets</h3>
-                                            <p>Cause you've got nothing better to do, right?</p>
+                                            <p>Description goes here.</p>
                                         </div>
                                     </div>
                                 </div>
