@@ -96,15 +96,16 @@ ms.assetid:
                                             </div>
                                         </div>
                                         <div class="cardText">
-                                            <h3>Box 1</h3>
-                                            <p>Subhead text goes here.</p>
+                                            <h3>Build your first app</h3>
+                                            <p>Build a 'hello world' app in the language of your choice.</p>
+                                            <p><img src="android.png" alt="">  <img src="angular.png" alt="">  <img src="asp.png" alt="">  <img src="php.png" alt=""> <img src="rails.png" alt="">  <img src="xamarin.png" alt=""></p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </a>
                     </li>
-                    <li>
+                    <!-- <li>
                         <a href="https://graph.microsoft.io/en-us/docs/overview/overview">
                             <div class="cardSize">
                                 <div class="cardPadding">
@@ -141,7 +142,7 @@ ms.assetid:
                                 </div>
                             </div>
                         </a>
-                    </li>
+                    </li> -->
 
                   </ul>
               </li>
