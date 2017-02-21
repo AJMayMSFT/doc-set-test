@@ -671,50 +671,46 @@ ms.assetid:
               </li>
               <li>
                 <a data-default="true" href="#snippets">Snippets</a>
-                <div id="snippets">
-                  <p>Snippets are projects that show how to do a number of atomic tasks using the Graph, like adding a contact or deleting an email.</p>
-                  <ul  class="cardsA">
-                      <li>
-                          <a href="https://graph.microsoft.io/en-us/graph-explorer">
-                              <div class="cardSize">
-                                  <div class="cardPadding">
-                                      <div class="card">
-                                          <div class="cardImageOuter">
-                                              <div class="cardImage">
-                                                  <img src="rocket.png" alt="">
-                                              </div>
-                                          </div>
-                                          <div class="cardText">
-                                              <h3>.NET Snippets</h3>
-                                              <p>Description goes here.</p>
-                                          </div>
-                                      </div>
-                                  </div>
-                              </div>
-                          </a>
-                      </li>
-                      <li>
-                          <a href="https://graph.microsoft.io/en-us/graph-explorer">
-                              <div class="cardSize">
-                                  <div class="cardPadding">
-                                      <div class="card">
-                                          <div class="cardImageOuter">
-                                              <div class="cardImage">
-                                                  <img src="rocket.png" alt="">
-                                              </div>
-                                          </div>
-                                          <div class="cardText">
-                                              <h3>AngularJS Snippets</h3>
-                                              <p>Description goes here.</p>
-                                          </div>
-                                      </div>
-                                  </div>
-                              </div>
-                          </a>
-                      </li>
-                    </ul>
-                </div>
-
+                <ul  id="snippets" class="cardsA">
+                    <li>
+                        <a href="https://graph.microsoft.io/en-us/graph-explorer">
+                            <div class="cardSize">
+                                <div class="cardPadding">
+                                    <div class="card">
+                                        <div class="cardImageOuter">
+                                            <div class="cardImage">
+                                                <img src="rocket.png" alt="">
+                                            </div>
+                                        </div>
+                                        <div class="cardText">
+                                            <h3>.NET Snippets</h3>
+                                            <p>Description goes here.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://graph.microsoft.io/en-us/graph-explorer">
+                            <div class="cardSize">
+                                <div class="cardPadding">
+                                    <div class="card">
+                                        <div class="cardImageOuter">
+                                            <div class="cardImage">
+                                                <img src="rocket.png" alt="">
+                                            </div>
+                                        </div>
+                                        <div class="cardText">
+                                            <h3>AngularJS Snippets</h3>
+                                            <p>Description goes here.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                  </ul>
               </li>
             </ul>
         </li>
