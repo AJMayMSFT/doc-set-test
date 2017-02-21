@@ -168,7 +168,7 @@ ms.assetid:
                         </a>
                     </li>
                     <li>
-                        <a href="https://graph.microsoft.io/en-us/docs/overview/overview">
+                        <a href="https://graph.microsoft.io/en-us/docs/authorization/auth_overview">
                             <div class="cardSize">
                                 <div class="cardPadding">
                                     <div class="card">
@@ -178,8 +178,8 @@ ms.assetid:
                                             </div>
                                         </div>
                                         <div class="cardText">
-                                            <h3>Basics option 2</h3>
-                                            <p>Some other text here.</p>
+                                            <h3>Authenticate users</h3>
+                                            <p>Authenticate using Azure AD or Azure AD v2.0 services.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -187,7 +187,7 @@ ms.assetid:
                         </a>
                     </li>
                     <li>
-                        <a href="https://graph.microsoft.io/en-us/docs/overview/overview">
+                        <a href="https://graph.microsoft.io/en-us/docs/overview/call_api">
                             <div class="cardSize">
                                 <div class="cardPadding">
                                     <div class="card">
@@ -197,8 +197,65 @@ ms.assetid:
                                             </div>
                                         </div>
                                         <div class="cardText">
-                                            <h3>Basics option 3</h3>
-                                            <p>Some other text here.</p>
+                                            <h3>Call the API</h3>
+                                            <p>Access and manipulate resources through RESTful HTTP operations.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://graph.microsoft.io/en-us/docs/overview/query_parameters">
+                            <div class="cardSize">
+                                <div class="cardPadding">
+                                    <div class="card">
+                                        <div class="cardImageOuter">
+                                            <div class="cardImage">
+                                                <img src="rocket.png" alt="">
+                                            </div>
+                                        </div>
+                                        <div class="cardText">
+                                            <h3>Query parameters</h3>
+                                            <p>User optional paramters to specify and control the amount of data returned in a response.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://graph.microsoft.io/en-us/docs/concepts/paging">
+                            <div class="cardSize">
+                                <div class="cardPadding">
+                                    <div class="card">
+                                        <div class="cardImageOuter">
+                                            <div class="cardImage">
+                                                <img src="rocket.png" alt="">
+                                            </div>
+                                        </div>
+                                        <div class="cardText">
+                                            <h3>Page Microsoft Graph data</h3>
+                                            <p>Use paging to break information returned into manageable chunks. </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://graph.microsoft.io/en-us/docs/overview/errors">
+                            <div class="cardSize">
+                                <div class="cardPadding">
+                                    <div class="card">
+                                        <div class="cardImageOuter">
+                                            <div class="cardImage">
+                                                <img src="rocket.png" alt="">
+                                            </div>
+                                        </div>
+                                        <div class="cardText">
+                                            <h3>Troubleshoot errors.</h3>
+                                            <p>Using standard HTTP status codes, as well as a JSON error response object.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -212,7 +269,7 @@ ms.assetid:
                           <a data-default="true" href="#indepth">Explore in-depth</a>
                           <ul id="indepth" class="cardsA">
                               <li>
-                                  <a href="https://graph.microsoft.io/en-us/docs/overview/overview">
+                                  <a href="https://graph.microsoft.io/en-us/docs/concepts/delta_query_overview">
                                       <div class="cardSize">
                                           <div class="cardPadding">
                                               <div class="card">
@@ -222,8 +279,8 @@ ms.assetid:
                                                       </div>
                                                   </div>
                                                   <div class="cardText">
-                                                      <h3>Advanced topic one.</h3>
-                                                      <p>And some intro text here.</p>
+                                                      <h3>Delta query (preview)</h3>
+                                                      <p>Discover newly created, updated, or deleted entities without performing a full read of the target resource. </p>
                                                   </div>
                                               </div>
                                           </div>
@@ -231,7 +288,7 @@ ms.assetid:
                                   </a>
                               </li>
                               <li>
-                                  <a href="https://graph.microsoft.io/en-us/docs/overview/overview">
+                                  <a href="https://graph.microsoft.io/en-us/docs/concepts/hybrid_rest_support">
                                       <div class="cardSize">
                                           <div class="cardPadding">
                                               <div class="card">
@@ -241,7 +298,7 @@ ms.assetid:
                                                       </div>
                                                   </div>
                                                   <div class="cardText">
-                                                      <h3>Advanced topic two.</h3>
+                                                      <h3>Hybrid deployments</h3>
                                                       <p>Some other text here.</p>
                                                   </div>
                                               </div>
@@ -250,7 +307,7 @@ ms.assetid:
                                   </a>
                               </li>
                               <li>
-                                  <a href="https://graph.microsoft.io/en-us/docs/overview/overview">
+                                  <a href="https://graph.microsoft.io/en-us/docs/concepts/deployments">
                                       <div class="cardSize">
                                           <div class="cardPadding">
                                               <div class="card">
@@ -260,8 +317,27 @@ ms.assetid:
                                                       </div>
                                                   </div>
                                                   <div class="cardText">
-                                                      <h3>Advanced topic three.</h3>
-                                                      <p>Some other text here.</p>
+                                                      <h3>Sovereign deployments</h3>
+                                                      <p>Information about the different sovereign cloud instances of Microsoft Graph.</p>
+                                                  </div>
+                                              </div>
+                                          </div>
+                                      </div>
+                                  </a>
+                              </li>
+                              <li>
+                                  <a href="https://graph.microsoft.io/en-us/docs/api-reference/v1.0/resources/webhooks">
+                                      <div class="cardSize">
+                                          <div class="cardPadding">
+                                              <div class="card">
+                                                  <div class="cardImageOuter">
+                                                      <div class="cardImage">
+                                                          <img src="rocket.png" alt="">
+                                                      </div>
+                                                  </div>
+                                                  <div class="cardText">
+                                                      <h3>Webhooks</h3>
+                                                      <p>Subscribe your app to changes on Microsoft Graph resources.</p>
                                                   </div>
                                               </div>
                                           </div>
