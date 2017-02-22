@@ -101,10 +101,11 @@ ms.assetid:
                                             <p><a href="https://graph.microsoft.io/en-us/docs/get-started/android"><img src="android.png" alt=""></a>
                                               <a href="https://graph.microsoft.io/en-us/docs/get-started/angular"><img src="angular.png" alt=""></a>
                                               <a href="https://graph.microsoft.io/en-us/docs/get-started/aspnetmvc"><img src="asp.png" alt=""></a>
+                                              <a href="https://graph.microsoft.io/en-us/docs/get-started/ios"><img src="ios.png" alt=""></a>
                                               <a href="https://graph.microsoft.io/en-us/docs/get-started/nodejs"><img src="node.png" alt=""></a>
                                               <a href="https://graph.microsoft.io/en-us/docs/get-started/php"><img src="php.png" alt=""></a>
                                               <a href="https://graph.microsoft.io/en-us/docs/get-started/ruby"><img src="rails.png" alt=""></a>
-                                              <a href="https://graph.microsoft.io/en-us/docs/get-started/uwp"><img src="uwp.png" alt=""></a>  
+                                              <a href="https://graph.microsoft.io/en-us/docs/get-started/uwp"><img src="uwp.png" alt=""></a>
                                               <a href="https://graph.microsoft.io/en-us/docs/get-started/xamarin"><img src="xamarin.png" alt=""></a>
                                             </p>
                                         </div>
