@@ -98,7 +98,15 @@ ms.assetid:
                                         <div class="cardText">
                                             <h3>Build your first app</h3>
                                             <p>Build a 'hello world' app in the language of your choice.</p>
-                                            <p><img src="android.png" alt="">  <img src="angular.png" alt="">  <img src="asp.png" alt="">  <img src="php.png" alt=""> <img src="rails.png" alt="">  <img src="xamarin.png" alt=""></p>
+                                            <p><a href="https://graph.microsoft.io/en-us/docs/get-started/android"><img src="android.png" alt=""></a>
+                                              <a href="https://graph.microsoft.io/en-us/docs/get-started/angular"><img src="angular.png" alt=""></a>
+                                              <a href="https://graph.microsoft.io/en-us/docs/get-started/aspnetmvc"><img src="asp.png" alt=""></a>
+                                              <a href="https://graph.microsoft.io/en-us/docs/get-started/nodejs"><img src="node.png" alt=""></a>
+                                              <a href="https://graph.microsoft.io/en-us/docs/get-started/php"><img src="php.png" alt=""></a>
+                                              <a href="https://graph.microsoft.io/en-us/docs/get-started/ruby"><img src="rails.png" alt=""></a>
+                                              <a href="https://graph.microsoft.io/en-us/docs/get-started/uwp"><img src="uwp.png" alt=""></a>  
+                                              <a href="https://graph.microsoft.io/en-us/docs/get-started/xamarin"><img src="xamarin.png" alt=""></a>
+                                            </p>
                                         </div>
                                     </div>
                                 </div>
