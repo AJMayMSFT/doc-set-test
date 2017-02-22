@@ -86,16 +86,11 @@ ms.assetid:
                 <a data-default="true" href="#getstarted">Getting Started</a>
                 <ul id="getstarted" class="cardsA">
                     <li>
-                        <a href="https://graph.microsoft.io/en-us/docs/overview/overview">
-                            <div class="cardSize">
-                                <div class="cardPadding">
-                                    <div class="card">
-                                        <div class="cardImageOuter">
-                                            <div class="cardImage">
-                                                <img src="rocket.png" alt="">
-                                            </div>
-                                        </div>
-                                        <div class="cardText">
+
+                            <div >
+                                <div >
+                                    <div >
+                                        <div >
                                             <h3>Build your first app</h3>
                                             <p>Build a 'hello world' app in the language of your choice.</p>
                                             <p><img src="android.png" alt="">  <img src="angular.png" alt="">  <img src="asp.png" alt="">  <img src="php.png" alt=""> <img src="rails.png" alt="">  <img src="xamarin.png" alt=""></p>
@@ -103,7 +98,7 @@ ms.assetid:
                                     </div>
                                 </div>
                             </div>
-                        </a>
+
                     </li>
                     <!-- <li>
                         <a href="https://graph.microsoft.io/en-us/docs/overview/overview">
