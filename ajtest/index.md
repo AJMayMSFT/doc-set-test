@@ -91,9 +91,7 @@ ms.assetid:
                                 <div class="cardPadding">
                                     <div class="card">
                                         <div class="cardImageOuter">
-                                            <div class="cardImage">
-                                                <img src="office_horizontal.png" alt="">
-                                            </div>
+
                                         </div>
                                         <div class="cardText">
                                             <h3>Build your first app</h3>
