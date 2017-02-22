@@ -92,7 +92,7 @@ ms.assetid:
                                     <div class="card">
                                         <div class="cardImageOuter">
                                             <div class="cardImage">
-                                                <img src="rocket.png" alt="">
+                                                <img src="office_horizontal.png" alt="">
                                             </div>
                                         </div>
                                         <div class="cardText">
@@ -112,7 +112,7 @@ ms.assetid:
                                     <div class="card">
                                         <div class="cardImageOuter">
                                             <div class="cardImage">
-                                                <img src="rocket.png" alt="">
+                                                <img src="office_horizontal.png" alt="">
                                             </div>
                                         </div>
                                         <div class="cardText">
@@ -131,7 +131,7 @@ ms.assetid:
                                     <div class="card">
                                         <div class="cardImageOuter">
                                             <div class="cardImage">
-                                                <img src="rocket.png" alt="">
+                                                <img src="office_horizontal.png" alt="">
                                             </div>
                                         </div>
                                         <div class="cardText">
@@ -156,7 +156,7 @@ ms.assetid:
                                     <div class="card">
                                         <div class="cardImageOuter">
                                             <div class="cardImage">
-                                                <img src="rocket.png" alt="">
+                                                <img src="office_horizontal.png" alt="">
                                             </div>
                                         </div>
                                         <div class="cardText">
@@ -175,7 +175,7 @@ ms.assetid:
                                     <div class="card">
                                         <div class="cardImageOuter">
                                             <div class="cardImage">
-                                                <img src="rocket.png" alt="">
+                                                <img src="office_horizontal.png" alt="">
                                             </div>
                                         </div>
                                         <div class="cardText">
@@ -194,7 +194,7 @@ ms.assetid:
                                     <div class="card">
                                         <div class="cardImageOuter">
                                             <div class="cardImage">
-                                                <img src="rocket.png" alt="">
+                                                <img src="office_horizontal.png" alt="">
                                             </div>
                                         </div>
                                         <div class="cardText">
@@ -213,7 +213,7 @@ ms.assetid:
                                     <div class="card">
                                         <div class="cardImageOuter">
                                             <div class="cardImage">
-                                                <img src="rocket.png" alt="">
+                                                <img src="office_horizontal.png" alt="">
                                             </div>
                                         </div>
                                         <div class="cardText">
@@ -232,7 +232,7 @@ ms.assetid:
                                     <div class="card">
                                         <div class="cardImageOuter">
                                             <div class="cardImage">
-                                                <img src="rocket.png" alt="">
+                                                <img src="office_horizontal.png" alt="">
                                             </div>
                                         </div>
                                         <div class="cardText">
@@ -251,7 +251,7 @@ ms.assetid:
                                     <div class="card">
                                         <div class="cardImageOuter">
                                             <div class="cardImage">
-                                                <img src="rocket.png" alt="">
+                                                <img src="office_horizontal.png" alt="">
                                             </div>
                                         </div>
                                         <div class="cardText">
@@ -276,7 +276,7 @@ ms.assetid:
                                               <div class="card">
                                                   <div class="cardImageOuter">
                                                       <div class="cardImage">
-                                                          <img src="rocket.png" alt="">
+                                                          <img src="office_horizontal.png" alt="">
                                                       </div>
                                                   </div>
                                                   <div class="cardText">
@@ -295,7 +295,7 @@ ms.assetid:
                                               <div class="card">
                                                   <div class="cardImageOuter">
                                                       <div class="cardImage">
-                                                          <img src="rocket.png" alt="">
+                                                          <img src="office_horizontal.png" alt="">
                                                       </div>
                                                   </div>
                                                   <div class="cardText">
@@ -314,7 +314,7 @@ ms.assetid:
                                               <div class="card">
                                                   <div class="cardImageOuter">
                                                       <div class="cardImage">
-                                                          <img src="rocket.png" alt="">
+                                                          <img src="office_horizontal.png" alt="">
                                                       </div>
                                                   </div>
                                                   <div class="cardText">
@@ -333,7 +333,7 @@ ms.assetid:
                                               <div class="card">
                                                   <div class="cardImageOuter">
                                                       <div class="cardImage">
-                                                          <img src="rocket.png" alt="">
+                                                          <img src="office_horizontal.png" alt="">
                                                       </div>
                                                   </div>
                                                   <div class="cardText">
@@ -682,7 +682,7 @@ ms.assetid:
                                     <div class="card">
                                         <div class="cardImageOuter">
                                             <div class="cardImage">
-                                                <img src="rocket.png" alt="">
+                                                <img src="office_horizontal.png" alt="">
                                             </div>
                                         </div>
                                         <div class="cardText">
@@ -701,7 +701,7 @@ ms.assetid:
                                     <div class="card">
                                         <div class="cardImageOuter">
                                             <div class="cardImage">
-                                                <img src="rocket.png" alt="">
+                                                <img src="office_horizontal.png" alt="">
                                             </div>
                                         </div>
                                         <div class="cardText">
@@ -720,7 +720,7 @@ ms.assetid:
                                     <div class="card">
                                         <div class="cardImageOuter">
                                             <div class="cardImage">
-                                                <img src="rocket.png" alt="">
+                                                <img src="office_horizontal.png" alt="">
                                             </div>
                                         </div>
                                         <div class="cardText">
@@ -756,7 +756,7 @@ ms.assetid:
                                     <div class="card">
                                         <div class="cardImageOuter">
                                             <div class="cardImage">
-                                                <img src="rocket.png" alt="">
+                                                <img src="office_horizontal.png" alt="">
                                             </div>
                                         </div>
                                         <div class="cardText">
@@ -775,7 +775,7 @@ ms.assetid:
                                     <div class="card">
                                         <div class="cardImageOuter">
                                             <div class="cardImage">
-                                                <img src="rocket.png" alt="">
+                                                <img src="office_horizontal.png" alt="">
                                             </div>
                                         </div>
                                         <div class="cardText">
