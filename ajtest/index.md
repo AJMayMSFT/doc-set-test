@@ -91,7 +91,6 @@ ms.assetid:
                                 <div class="cardPadding">
                                     <div class="card">
                                         <div class="cardImageOuter">
-
                                         </div>
                                         <div class="cardText">
                                             <h3>Build your first app</h3>
@@ -751,6 +750,61 @@ ms.assetid:
                 <a data-default="true" href="#connects">Connects</a>
                 <ul id="connects" class="cardsA">
 
+                      <li>
+
+                              <div class="cardSize">
+                                  <div class="cardPadding">
+                                      <div class="card">
+                                          <div class="cardImageOuter">
+
+                                          </div>
+                                          <div class="cardText">
+
+                                              <p>Connects are simple 'hello world' samples that demonstrate how to connect to Microsoft Graph.</p>
+                                          </div>
+                                      </div>
+                                  </div>
+                              </div>
+
+                      </li>
+                      <li>
+                          <a href="https://github.com/microsoftgraph/aspnet-connect-rest-sample">
+                              <div class="cardSize">
+                                  <div class="cardPadding">
+                                      <div class="card">
+                                          <div class="cardImageOuter">
+                                              <div class="cardImage">
+                                                  <img src="office_horizontal.png" alt="">
+                                              </div>
+                                          </div>
+                                          <div class="cardText">
+                                              <h3>ASP.NET Connect</h3>
+                                              <p>Connect to Microsoft Graph and send an email.</p>
+                                          </div>
+                                      </div>
+                                  </div>
+                              </div>
+                          </a>
+                      </li>
+                      <li>
+                          <a href="https://github.com/microsoftgraph/nodejs-connect-rest-sample">
+                              <div class="cardSize">
+                                  <div class="cardPadding">
+                                      <div class="card">
+                                          <div class="cardImageOuter">
+                                              <div class="cardImage">
+                                                  <img src="office_horizontal.png" alt="">
+                                              </div>
+                                          </div>
+                                          <div class="cardText">
+                                              <h3>Node.js Connect</h3>
+                                              <p>Connect to Microsoft Graph and send an email.</p>
+                                          </div>
+                                      </div>
+                                  </div>
+                              </div>
+                          </a>
+                      </li>
                 </ul>
               </li>
               <li>
