@@ -749,23 +749,21 @@ ms.assetid:
               <li>
                 <a data-default="true" href="#connects">Connects</a>
                 <ul id="connects" class="cardsA">
-
                       <li>
-
+                          <a href="https://github.com/microsoftgraph?utf8=%E2%9C%93&q=connect&type=&language=">
                               <div class="cardSize">
                                   <div class="cardPadding">
                                       <div class="card">
                                           <div class="cardImageOuter">
-
                                           </div>
                                           <div class="cardText">
-
+                                              <h3>All Connect samples</h3>
                                               <p>Connects are simple 'hello world' samples that demonstrate how to connect to Microsoft Graph.</p>
                                           </div>
                                       </div>
                                   </div>
                               </div>
-
+                          </a>
                       </li>
                       <li>
                           <a href="https://github.com/microsoftgraph/aspnet-connect-rest-sample">
