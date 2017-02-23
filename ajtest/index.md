@@ -766,7 +766,64 @@ ms.assetid:
                           </a>
                       </li>
                       <li>
-                          <a href="https://github.com/microsoftgraph/aspnet-connect-rest-sample">
+                          <a href="https://github.com/microsoftgraph?utf8=%E2%9C%93&q=connect%20android&type=&language=">
+                              <div class="cardSize">
+                                  <div class="cardPadding">
+                                      <div class="card">
+                                          <div class="cardImageOuter">
+                                              <div class="cardImage">
+                                                  <img src="office_horizontal.png" alt="">
+                                              </div>
+                                          </div>
+                                          <div class="cardText">
+                                              <h3>Android Connect</h3>
+                                              <p><a href="https://github.com/microsoftgraph/android-java-connect-rest-sample">REST</a>   |  <a href="https://github.com/microsoftgraph/android-java-connect-sample">SDK</a></p>
+                                          </div>
+                                      </div>
+                                  </div>
+                              </div>
+                          </a>
+                      </li>
+                      <li>
+                          <a href="https://github.com/microsoftgraph?utf8=%E2%9C%93&q=connect%20uwp&type=&language=">
+                              <div class="cardSize">
+                                  <div class="cardPadding">
+                                      <div class="card">
+                                          <div class="cardImageOuter">
+                                              <div class="cardImage">
+                                                  <img src="office_horizontal.png" alt="">
+                                              </div>
+                                          </div>
+                                          <div class="cardText">
+                                              <h3>UWP Connect (C#)</h3>
+                                              <p><a href="https://github.com/microsoftgraph/uwp-csharp-connect-rest-sample">REST</a>   |  <a href="https://github.com/microsoftgraph/uwp-csharp-connect-sample">SDK</a></p>
+                                          </div>
+                                      </div>
+                                  </div>
+                              </div>
+                          </a>
+                      </li>
+                      <li>
+                          <a href="https://github.com/microsoftgraph?utf8=%E2%9C%93&q=connect%20angular&type=&language=">
+                              <div class="cardSize">
+                                  <div class="cardPadding">
+                                      <div class="card">
+                                          <div class="cardImageOuter">
+                                              <div class="cardImage">
+                                                  <img src="office_horizontal.png" alt="">
+                                              </div>
+                                          </div>
+                                          <div class="cardText">
+                                              <h3>AngularJS Connect</h3>
+                                              <p><a href="https://github.com/microsoftgraph/angular-connect-rest-sample">REST</a>   |  <a href="https://github.com/microsoftgraph/angular-connect-sample">SDK</a></p>
+                                          </div>
+                                      </div>
+                                  </div>
+                              </div>
+                          </a>
+                      </li>
+                      <li>
+                          <a href="https://github.com/microsoftgraph?utf8=%E2%9C%93&q=aspnet%20connect%20&type=&language=">
                               <div class="cardSize">
                                   <div class="cardPadding">
                                       <div class="card">
@@ -777,7 +834,7 @@ ms.assetid:
                                           </div>
                                           <div class="cardText">
                                               <h3>ASP.NET Connect</h3>
-                                              <p>Connect to Microsoft Graph and send an email.</p>
+                                              <p><a href="https://github.com/microsoftgraph/aspnet-connect-rest-sample">REST</a>   |  <a href="https://github.com/microsoftgraph/aspnet-connect-sample">SDK</a></p>
                                           </div>
                                       </div>
                                   </div>
@@ -785,7 +842,7 @@ ms.assetid:
                           </a>
                       </li>
                       <li>
-                          <a href="https://github.com/microsoftgraph/nodejs-connect-rest-sample">
+                          <a href="https://github.com/microsoftgraph?utf8=%E2%9C%93&q=node%20connect%20&type=&language=">
                               <div class="cardSize">
                                   <div class="cardPadding">
                                       <div class="card">
@@ -796,7 +853,26 @@ ms.assetid:
                                           </div>
                                           <div class="cardText">
                                               <h3>Node.js Connect</h3>
-                                              <p>Connect to Microsoft Graph and send an email.</p>
+                                              <p><a href="https://github.com/microsoftgraph/nodejs-connect-rest-sample">REST</a>   |  <a href="https://github.com/microsoftgraph/nodejs-connect-sample">SDK</a></p>
+                                          </div>
+                                      </div>
+                                  </div>
+                              </div>
+                          </a>
+                      </li>
+                      <li>
+                          <a href="https://github.com/microsoftgraph?utf8=%E2%9C%93&q=php%20connect%20&type=&language=">
+                              <div class="cardSize">
+                                  <div class="cardPadding">
+                                      <div class="card">
+                                          <div class="cardImageOuter">
+                                              <div class="cardImage">
+                                                  <img src="office_horizontal.png" alt="">
+                                              </div>
+                                          </div>
+                                          <div class="cardText">
+                                              <h3>PHP Connect</h3>
+                                              <p><a href="https://github.com/microsoftgraph/php-connect-rest-sample">REST</a>   |  <a href="https://github.com/microsoftgraph/php-connect-sample">SDK</a></p>
                                           </div>
                                       </div>
                                   </div>
@@ -808,8 +884,24 @@ ms.assetid:
               <li>
                 <a data-default="true" href="#snippets">Snippets</a>
                 <ul  id="snippets" class="cardsA">
+                  <li>
+                      <a href="https://github.com/microsoftgraph?utf8=%E2%9C%93&q=snippets&type=&language=">
+                          <div class="cardSize">
+                              <div class="cardPadding">
+                                  <div class="card">
+                                      <div class="cardImageOuter">
+                                      </div>
+                                      <div class="cardText">
+                                          <h3>All Snippets samples</h3>
+                                          <p>Snippets samples provide a repository of code snippets that use Microsoft Graph to perform common tasks such as sending email, managing groups, and other activities.</p>
+                                      </div>
+                                  </div>
+                              </div>
+                          </div>
+                      </a>
+                  </li>
                     <li>
-                        <a href="https://graph.microsoft.io/en-us/graph-explorer">
+                        <a href="https://github.com/microsoftgraph?utf8=%E2%9C%93&q=android%20snippets&type=&language=">
                             <div class="cardSize">
                                 <div class="cardPadding">
                                     <div class="card">
@@ -819,8 +911,9 @@ ms.assetid:
                                             </div>
                                         </div>
                                         <div class="cardText">
-                                            <h3>.NET Snippets</h3>
-                                            <p>Description goes here.</p>
+                                            <h3>Android Snippets (Java)</h3>
+                                            <p><a href="https://github.com/microsoftgraph/android-java-snippets-rest-sample">REST</a>  |  <a href="https://github.com/microsoftgraph/android-java-snippets-sample"></a></p>
+
                                         </div>
                                     </div>
                                 </div>
@@ -828,7 +921,26 @@ ms.assetid:
                         </a>
                     </li>
                     <li>
-                        <a href="https://graph.microsoft.io/en-us/graph-explorer">
+                        <a href="https://github.com/microsoftgraph?utf8=%E2%9C%93&q=uwp%20snippets&type=&language=">
+                            <div class="cardSize">
+                                <div class="cardPadding">
+                                    <div class="card">
+                                        <div class="cardImageOuter">
+                                            <div class="cardImage">
+                                                <img src="office_horizontal.png" alt="">
+                                            </div>
+                                        </div>
+                                        <div class="cardText">
+                                            <h3>UWP Snippets (C#)</h3>
+                                            <p><a href="https://github.com/microsoftgraph/uwp-csharp-snippets-rest-sample">REST</a>  |  <a href="https://github.com/microsoftgraph/uwp-csharp-snippets-sample">SDK</a></p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/microsoftgraph/angular-snippets-rest-sample">
                             <div class="cardSize">
                                 <div class="cardPadding">
                                     <div class="card">
@@ -839,15 +951,51 @@ ms.assetid:
                                         </div>
                                         <div class="cardText">
                                             <h3>AngularJS Snippets</h3>
-                                            <p>Description goes here.</p>
+
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </a>
                     </li>
-                  </ul>
-              </li>
+                    <li>
+                        <a href="https://github.com/microsoftgraph/aspnet-snippets-sample">
+                            <div class="cardSize">
+                                <div class="cardPadding">
+                                    <div class="card">
+                                        <div class="cardImageOuter">
+                                            <div class="cardImage">
+                                                <img src="office_horizontal.png" alt="">
+                                            </div>
+                                        </div>
+                                        <div class="cardText">
+                                            <h3>ASP.NET Snippets (C#)</h3>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/microsoftgraph/xamarin-csharp-snippets-sample">
+                            <div class="cardSize">
+                                <div class="cardPadding">
+                                    <div class="card">
+                                        <div class="cardImageOuter">
+                                            <div class="cardImage">
+                                                <img src="office_horizontal.png" alt="">
+                                            </div>
+                                        </div>
+                                        <div class="cardText">
+                                            <h3>Xamarin Snippets (C#)</h3>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
             </ul>
         </li>
     </ul>
