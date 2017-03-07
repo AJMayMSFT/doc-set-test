@@ -20,17 +20,17 @@ ms.assetid:
   <div class="scenario">
     <h3>Connect</h3>
     <p>Make your apps smarter by connecting to Office data.</p>
-    <img src="connect.png" alt="Connect">
+    <img src="connect.png" alt="Connect" style="width:75%; height: auto;">
   </div>
   <div class="scenario">
     <h3>Extend</h3>
     <p>Extend the Office experience through custom solutions and add-ins.</p>
-    <img src="extend.png" alt="Extend">
+    <img src="extend.png" alt="Extend" style="width:75%; height: auto;">
   </div>
   <div class="scenario">
     <h3>Converse</h3>
     <p>Engage users through conversation.</p>
-    <img src="converse.png" alt="Converse">
+    <img src="converse.png" alt="Converse" style="width:75%; height: auto;">
   </div>
 </div>
 
