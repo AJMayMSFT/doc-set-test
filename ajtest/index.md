@@ -16,6 +16,24 @@ ms.suite:
 ms.assetid:
 ---
 
+<div class="container">
+  <div class="scenario">
+    <h3>Connect</h3>
+    <p>Make your apps smarter by connecting to Office data.</p>
+    <img src="connect.png" alt="Connect">
+  </div>
+  <div class="scenario">
+    <h3>Extend</h3>
+    <p>Extend the Office experience through custom solutions and add-ins.</p>
+    <img src="extend.png" alt="Extend">
+  </div>
+  <div class="scenario">
+    <h3>Converse</h3>
+    <p>Engage users through conversation.</p>
+    <img src="converse.png" alt="Converse">
+  </div>
+</div>
+
 
 <div class="container">
     <ul class="cardsY panelContent featuredContent">
