@@ -15,7 +15,7 @@ ms.technology:
 ms.suite:
 ms.assetid:
 ---
-
+<!--
 <div>
   <div class="scenario">
     <h3>Connect</h3>
@@ -33,8 +33,8 @@ ms.assetid:
     <img src="converse.png" alt="Converse" style="width:75%; height: auto;">
   </div>
 </div>
+-->
 
-<!--
 <div class="container">
     <ul class="pivots">
         <li>
@@ -925,4 +925,4 @@ ms.assetid:
     </ul>
 
 </div>
--->
+
