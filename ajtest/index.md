@@ -16,7 +16,7 @@ ms.suite:
 ms.assetid:
 ---
 
-<div class="container">
+<div>
   <div class="scenario">
     <h3>Connect</h3>
     <p>Make your apps smarter by connecting to Office data.</p>
@@ -34,7 +34,7 @@ ms.assetid:
   </div>
 </div>
 
-
+/*
 <div class="container">
     <ul class="cardsY panelContent featuredContent">
         <li>
@@ -93,7 +93,7 @@ ms.assetid:
         </li>
     </ul>
 </div>
-
+*/
 
 <div class="container">
     <ul class="pivots">
