@@ -34,6 +34,7 @@ ms.assetid:
   </div>
 </div>
 
+<!--
 <div class="container">
     <ul class="pivots">
         <li>
@@ -68,44 +69,7 @@ ms.assetid:
                             </div>
                         </a>
                     </li>
-                    <!-- <li>
-                        <a href="https://graph.microsoft.io/en-us/docs/overview/overview">
-                            <div class="cardSize">
-                                <div class="cardPadding">
-                                    <div class="card">
-                                        <div class="cardImageOuter">
-                                            <div class="cardImage">
-                                                <img src="office_horizontal.png" alt="">
-                                            </div>
-                                        </div>
-                                        <div class="cardText">
-                                            <h3>Getting started option 2</h3>
-                                            <p>Some other text here.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="https://graph.microsoft.io/en-us/docs/overview/overview">
-                            <div class="cardSize">
-                                <div class="cardPadding">
-                                    <div class="card">
-                                        <div class="cardImageOuter">
-                                            <div class="cardImage">
-                                                <img src="office_horizontal.png" alt="">
-                                            </div>
-                                        </div>
-                                        <div class="cardText">
-                                            <h3>Getting started option 3</h3>
-                                            <p>Some other text here.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </li> -->
+
 
                   </ul>
               </li>
@@ -961,3 +925,4 @@ ms.assetid:
     </ul>
 
 </div>
+-->
