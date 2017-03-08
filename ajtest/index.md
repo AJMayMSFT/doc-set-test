@@ -1,7 +1,6 @@
 ---
 layout: HubPage
 hide_bc: true
-
 title: Microsoft Graph Documentation
 description:
 keywords:
@@ -15,25 +14,66 @@ ms.technology:
 ms.suite:
 ms.assetid:
 ---
-<!--
-<div>
-  <div class="scenario">
-    <h3>Connect</h3>
-    <p>Make your apps smarter by connecting to Office data.</p>
-    <img src="connect.png" alt="Connect" style="width:75%; height: auto;">
-  </div>
-  <div class="scenario">
-    <h3>Extend</h3>
-    <p>Extend the Office experience through custom solutions and add-ins.</p>
-    <img src="extend.png" alt="Extend" style="width:75%; height: auto;">
-  </div>
-  <div class="scenario">
-    <h3>Converse</h3>
-    <p>Engage users through conversation.</p>
-    <img src="converse.png" alt="Converse" style="width:75%; height: auto;">
-  </div>
+
+<div class="container">
+    <ul class="cardsY panelContent featuredContent">
+        <li>
+            <a href="https://graph.microsoft.io/en-us/docs/overview/overview">
+                <div class="cardSize">
+                    <div class="cardPadding">
+                        <div class="card">
+                            <div class="cardImageOuter">
+                                <div class="cardImage">
+                                    <img data-hoverimage="articles/images/hub/featured-1.svg" src="rocket.png" alt="" />
+                                </div>
+                            </div>
+                            <div class="cardText">
+                                <h3>Introducing the MS Graph</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="https://graph.microsoft.io/en-us/graph-explorer">
+                <div class="cardSize">
+                    <div class="cardPadding">
+                        <div class="card">
+                            <div class="cardImageOuter">
+                                <div class="cardImage">
+                                    <img data-hoverimage="articles/images/hub/featured-2.svg" src="rocket.png" alt="" />
+                                </div>
+                            </div>
+                            <div class="cardText">
+                                <h3>Explore the Graph online</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="https://graph.microsoft.io/en-us/getting-started">
+                <div class="cardSize">
+                    <div class="cardPadding">
+                        <div class="card">
+                            <div class="cardImageOuter">
+                                <div class="cardImage">
+                                    <img data-hoverimage="articles/images/hub/featured-3.svg" src="rocket.png" alt="" />
+                                </div>
+                            </div>
+                            <div class="cardText">
+                                <h3>Try the Graph Quickstart</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </li>
+    </ul>
 </div>
--->
+
 
 <div class="container">
     <ul class="pivots">
@@ -69,7 +109,44 @@ ms.assetid:
                             </div>
                         </a>
                     </li>
-
+                    <!-- <li>
+                        <a href="https://graph.microsoft.io/en-us/docs/overview/overview">
+                            <div class="cardSize">
+                                <div class="cardPadding">
+                                    <div class="card">
+                                        <div class="cardImageOuter">
+                                            <div class="cardImage">
+                                                <img src="office_horizontal.png" alt="">
+                                            </div>
+                                        </div>
+                                        <div class="cardText">
+                                            <h3>Getting started option 2</h3>
+                                            <p>Some other text here.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://graph.microsoft.io/en-us/docs/overview/overview">
+                            <div class="cardSize">
+                                <div class="cardPadding">
+                                    <div class="card">
+                                        <div class="cardImageOuter">
+                                            <div class="cardImage">
+                                                <img src="office_horizontal.png" alt="">
+                                            </div>
+                                        </div>
+                                        <div class="cardText">
+                                            <h3>Getting started option 3</h3>
+                                            <p>Some other text here.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </li> -->
 
                   </ul>
               </li>
@@ -918,7 +995,7 @@ ms.assetid:
                         </a>
                     </li>
             </ul>
-        </li> 
+        </li>
         <li>
           <a data-default="true" href="https://github.com/microsoftgraph">All samples</a>
         </li>
